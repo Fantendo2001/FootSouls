@@ -3,35 +3,17 @@
 #### 介绍
 数天训练营线上组
 
-#### 软件架构
-软件架构说明
+#### 项目拷贝步骤
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  安装Git
+2.  安装Fork（Git的图形化界面，便于操作）
+3.  克隆项目到本地并尝试运行
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+详情见拷贝后的项目工程使用说明。
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 注意事项
+1. 从网上下载的素材时最好在本地运行，觉得好要用的文件后进行上传，因Gitee仓库有容量限制，
+传输文件有大小限制，仓库大小约为1-3G，因此不可能存放无用的资产，酌情添加资产。
+2. 注意单个文件大小最好小于50m，因其Gitee限制可能无法上传大于50m的文件。
