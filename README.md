@@ -21,7 +21,14 @@
 #### 学习资料
 1.简单的Gameplay框架概述
 https://blog.csdn.net/wjysg8408982/article/details/112411867
+
 2.UE中的数据驱动（策划配表使用，此次项目不一样会用到）
 可以去了解DataTable、DataAsset的用法
+
 3.如果有技能系统，Buff系统可以尝试使用GAS插件系统来帮助开发（帮助不同技能之间解耦，不强制要求使用）
+
 https://www.bilibili.com/video/BV1X5411V7jh?spm_id_from=333.337.search-card.all.click&vd_source=267943d19946ff546849f8b243fb794c
+
+https://zhuanlan.zhihu.com/p/486808688
+
+https://github.com/BillEliot/GASDocumentation_Chinese
