@@ -1,0 +1,713 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_Doom"
+   Begin Object Class=/Script/Engine.Material Name="Material_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDotProduct Name="MaterialExpressionDotProduct_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFresnel Name="MaterialExpressionFresnel_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPanner Name="MaterialExpressionPanner_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionRound Name="MaterialExpressionRound_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_2"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="Material_0"
+      EmissiveColor=(Expression=MaterialExpressionFunctionOutput'"MF_Doom:MaterialExpressionFunctionOutput_0"')
+      ShadingModel=MSM_Unlit
+      ShadingModels=(ShadingModelField=1)
+      Expressions(0)=MaterialExpressionFunctionOutput'"MF_Doom:MaterialExpressionFunctionOutput_0"'
+      Expressions(1)=MaterialExpressionFresnel'"MF_Doom:MaterialExpressionFresnel_0"'
+      Expressions(2)=MaterialExpressionScalarParameter'"MF_Doom:MaterialExpressionScalarParameter_1"'
+      Expressions(3)=MaterialExpressionLinearInterpolate'"MF_Doom:MaterialExpressionLinearInterpolate_0"'
+      Expressions(4)=MaterialExpressionVectorParameter'"MF_Doom:MaterialExpressionVectorParameter_1"'
+      Expressions(5)=MaterialExpressionMaterialFunctionCall'"MF_Doom:MaterialExpressionMaterialFunctionCall_2"'
+      Expressions(6)=MaterialExpressionTime'"MF_Doom:MaterialExpressionTime_1"'
+      Expressions(7)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_4"'
+      Expressions(8)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_5"'
+      Expressions(9)=MaterialExpressionAdd'"MF_Doom:MaterialExpressionAdd_0"'
+      Expressions(10)=MaterialExpressionSine'"MF_Doom:MaterialExpressionSine_0"'
+      Expressions(11)=MaterialExpressionAdd'"MF_Doom:MaterialExpressionAdd_1"'
+      Expressions(12)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_6"'
+      Expressions(13)=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_0"'
+      Expressions(14)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_7"'
+      Expressions(15)=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_1"'
+      Expressions(16)=MaterialExpressionTime'"MF_Doom:MaterialExpressionTime_2"'
+      Expressions(17)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_8"'
+      Expressions(18)=MaterialExpressionAdd'"MF_Doom:MaterialExpressionAdd_3"'
+      Expressions(19)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_10"'
+      Expressions(20)=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_2"'
+      Expressions(21)=MaterialExpressionSine'"MF_Doom:MaterialExpressionSine_1"'
+      Expressions(22)=MaterialExpressionVectorParameter'"MF_Doom:MaterialExpressionVectorParameter_2"'
+      Expressions(23)=MaterialExpressionLinearInterpolate'"MF_Doom:MaterialExpressionLinearInterpolate_3"'
+      Expressions(24)=MaterialExpressionRound'"MF_Doom:MaterialExpressionRound_0"'
+      Expressions(25)=MaterialExpressionPower'"MF_Doom:MaterialExpressionPower_0"'
+      Expressions(26)=MaterialExpressionDotProduct'"MF_Doom:MaterialExpressionDotProduct_0"'
+      Expressions(27)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_13"'
+      Expressions(28)=MaterialExpressionTextureCoordinate'"MF_Doom:MaterialExpressionTextureCoordinate_0"'
+      Expressions(29)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_14"'
+      Expressions(30)=MaterialExpressionTextureSampleParameter2D'"MF_Doom:MaterialExpressionTextureSampleParameter2D_0"'
+      Expressions(31)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_15"'
+      Expressions(32)=MaterialExpressionPanner'"MF_Doom:MaterialExpressionPanner_1"'
+      Expressions(33)=MaterialExpressionScalarParameter'"MF_Doom:MaterialExpressionScalarParameter_14"'
+      Expressions(34)=MaterialExpressionScalarParameter'"MF_Doom:MaterialExpressionScalarParameter_15"'
+      Expressions(35)=MaterialExpressionAppendVector'"MF_Doom:MaterialExpressionAppendVector_0"'
+      Expressions(36)=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_16"'
+      Expressions(37)=MaterialExpressionStaticSwitch'"MF_Doom:MaterialExpressionStaticSwitch_1"'
+      Expressions(38)=MaterialExpressionConstant'"MF_Doom:MaterialExpressionConstant_0"'
+      Expressions(39)=MaterialExpressionStaticSwitch'"MF_Doom:MaterialExpressionStaticSwitch_2"'
+      Expressions(40)=MaterialExpressionStaticSwitch'"MF_Doom:MaterialExpressionStaticSwitch_3"'
+      Expressions(41)=MaterialExpressionConstant'"MF_Doom:MaterialExpressionConstant_2"'
+      Expressions(42)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_0"'
+      Expressions(43)=MaterialExpressionStaticBool'"MF_Doom:MaterialExpressionStaticBool_0"'
+      Expressions(44)=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_3"'
+      Expressions(45)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_1"'
+      Expressions(46)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_2"'
+      Expressions(47)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_3"'
+      Expressions(48)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_4"'
+      Expressions(49)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_5"'
+      Expressions(50)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_6"'
+      Expressions(51)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_7"'
+      Expressions(52)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_8"'
+      Expressions(53)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_9"'
+      Expressions(54)=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_10"'
+      Expressions(55)=MaterialExpressionStaticBool'"MF_Doom:MaterialExpressionStaticBool_1"'
+      bCanMaskedBeAssumedOpaque=True
+      StateId=2D708AD64C3239302BA568B0665030F3
+      ReferencedTextureGuids(0)=B1B48DC346A48B839A728CBBA9158683
+      ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"MF_Doom:SceneThumbnailInfoWithPrimitive_0"'
+      LightingGuid=DAC2C7714FEBC712E0CC26A8DA8AAD83
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_5"')
+      B=(Expression=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_0"')
+      MaterialExpressionEditorX=-1248
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=2FF3C0774132FA6B101A63A025C9B16E
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionSine'"MF_Doom:MaterialExpressionSine_0"')
+      MaterialExpressionEditorX=-1040
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=FA7A0C0343BDCDB7BD65DF927536E440
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3"
+      A=(Expression=MaterialExpressionSine'"MF_Doom:MaterialExpressionSine_1"')
+      MaterialExpressionEditorX=-1232
+      MaterialExpressionEditorY=-288
+      MaterialExpressionGuid=FA7A0C0343BDCDB7BD65DF927536E440
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0"
+      A=(Expression=MaterialExpressionScalarParameter'"MF_Doom:MaterialExpressionScalarParameter_15"')
+      B=(Expression=MaterialExpressionScalarParameter'"MF_Doom:MaterialExpressionScalarParameter_14"')
+      MaterialExpressionEditorX=-432
+      MaterialExpressionEditorY=1952
+      MaterialExpressionGuid=316FE5ED42C5D7670E52F08EB45E2844
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=1488
+      SizeY=624
+      Text="Noise"
+      MaterialExpressionEditorX=-656
+      MaterialExpressionEditorY=1680
+      MaterialExpressionGuid=CEED26C74DC42FB7EE1BA8925A9EA5B6
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=992
+      MaterialExpressionGuid=C78A75FD45793355E59D38A63ED191AE
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      R=1.000000
+      MaterialExpressionEditorX=496
+      MaterialExpressionEditorY=1728
+      MaterialExpressionGuid=EECBF2294503D15F3E85DF9D0B7DF6EE
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionDotProduct_0"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'"MF_Doom:MaterialExpressionMaterialFunctionCall_2"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_5"')
+      MaterialExpressionEditorX=-1712
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=3CE9A9C041E4414C9795CB9A4479C1E3
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFresnel_0"
+      ExponentIn=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_3"')
+      BaseReflectFractionIn=(Expression=MaterialExpressionScalarParameter'"MF_Doom:MaterialExpressionScalarParameter_1"')
+      MaterialExpressionEditorX=-752
+      MaterialExpressionGuid=160654FC49DD50C5DF40B1B0A2929369
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0"
+      Preview=(Expression=MaterialExpressionStaticBool'"MF_Doom:MaterialExpressionStaticBool_0"')
+      InputName="Use Flash?"
+      Id=40FF7FF74F7574B754EF9CA0609F62D3
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      SortPriority=12
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=-384
+      MaterialExpressionGuid=44683130445BD97F382E7AA8E0DDB418
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1"
+      InputName="Overall Brightness"
+      Id=929BB7F740274652E220668BB0BBED0B
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=992
+      MaterialExpressionEditorY=416
+      MaterialExpressionGuid=D9E2796C4D4E6E7FCD7DEEBBC90EE6C9
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_10"
+      Preview=(Expression=MaterialExpressionStaticBool'"MF_Doom:MaterialExpressionStaticBool_1"')
+      InputName="Use Lines?"
+      Id=FC94E0A14CC2EFE2F462B4A40D426396
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      SortPriority=43
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=1248
+      MaterialExpressionGuid=44683130445BD97F382E7AA8E0DDB418
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2"
+      InputName="Color shift Speed"
+      Id=B41416E7423A65E6E78C37B7D6EDD12D
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-1824
+      MaterialExpressionEditorY=-192
+      MaterialExpressionGuid=18734A004820CE4FB416D19F92FD4539
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3"
+      InputName="Power"
+      Id=FD1564A848829F797FD46594FB291DE4
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-1344
+      MaterialExpressionGuid=85E4D1F54E7511A3320F0A8BCF83F6EE
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4"
+      InputName="Seperation"
+      Id=6022EBA2498CE505BF168BBC83FD3C54
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-928
+      MaterialExpressionEditorY=1008
+      MaterialExpressionGuid=C7CEED3048D4232CA5BACC9220EB1A82
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_5"
+      InputName="Direction"
+      Id=D1E193B8472B9C892AB519BDF37A1979
+      MaterialExpressionEditorX=-2080
+      MaterialExpressionEditorY=1056
+      MaterialExpressionGuid=63DE9CDC42AF0777807416B8B19D4A2E
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_6"
+      InputName="Line Speed"
+      Id=8AD756114806FF1DA8221BB26D19172A
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-2110
+      MaterialExpressionEditorY=1491
+      MaterialExpressionGuid=44B869754C82784E4B8F0F950378B93F
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_7"
+      InputName="Numer of Lines"
+      Id=EA47FE394B3F500467A9E898E1B4FA74
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-1722
+      MaterialExpressionEditorY=1122
+      MaterialExpressionGuid=323C69514D56A5734DB3A6986B08E95F
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_8"
+      InputName="Noise tiling"
+      Id=1EB15B94481B83F806FF21AF84E81FDB
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-208
+      MaterialExpressionEditorY=1936
+      MaterialExpressionGuid=AE2FBFE240B1D007F23CAC8DA2B28652
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_9"
+      InputName="Noise Power"
+      Id=6CBFB36B4C4D3A884180488FA7044CA2
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=224
+      MaterialExpressionEditorY=2048
+      MaterialExpressionGuid=908C0E2449532AE1F709B281C991CD65
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0"
+      A=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_13"')
+      bLastPreviewed=True
+      Id=2AF8B4A1444613FEB322AB93025E2F3B
+      MaterialExpressionEditorX=1584
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=528844F24BFBA450E64B25B9394F042E
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      B=(Expression=MaterialExpressionStaticSwitch'"MF_Doom:MaterialExpressionStaticSwitch_2"')
+      Alpha=(Expression=MaterialExpressionFresnel'"MF_Doom:MaterialExpressionFresnel_0"')
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=-48
+      MaterialExpressionGuid=91659C3247583601B3B75FA14FD7B0E2
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_3"
+      A=(Expression=MaterialExpressionVectorParameter'"MF_Doom:MaterialExpressionVectorParameter_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'"MF_Doom:MaterialExpressionVectorParameter_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionRound'"MF_Doom:MaterialExpressionRound_0"')
+      MaterialExpressionEditorX=-784
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=90A179764BFBBD305AB48EBD8A580876
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.BoundingBoxBased_0-1_UVW"'
+      FunctionOutputs(0)=(ExpressionOutputId=816F5E45436BE7F3304882A0C537B52D,Output=(OutputName="RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=9A07EA7E482051E89644F7B56D870151,Output=(OutputName="R"))
+      FunctionOutputs(2)=(ExpressionOutputId=D4D771A945BE9E60D3447B8B046A80DB,Output=(OutputName="G"))
+      FunctionOutputs(3)=(ExpressionOutputId=699FE343497801666741678F2CD25D6D,Output=(OutputName="B"))
+      MaterialExpressionEditorX=-2176
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=DCFF0CF14ABEF9882E10A6890209F6F9
+      Function=MaterialFunction'"MF_Doom"'
+      Outputs(0)=(OutputName="RGB")
+      Outputs(1)=(OutputName="R")
+      Outputs(2)=(OutputName="G")
+      Outputs(3)=(OutputName="B")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10"
+      A=(Expression=MaterialExpressionAdd'"MF_Doom:MaterialExpressionAdd_3"')
+      ConstB=0.500000
+      MaterialExpressionEditorX=-1120
+      MaterialExpressionEditorY=-288
+      MaterialExpressionGuid=731FE0A94A154661E42740835382DB30
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_13"
+      A=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_16"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_1"')
+      MaterialExpressionEditorX=1328
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=4EC5566245B608DDB665CFAB420F9220
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_14"
+      A=(Expression=MaterialExpressionPanner'"MF_Doom:MaterialExpressionPanner_1"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_8"')
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=1808
+      MaterialExpressionGuid=FE7F56884BBFD9A4FC685DA5FF0BC98B
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_15"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"MF_Doom:MaterialExpressionTextureSampleParameter2D_0"',OutputIndex=2,Mask=1,MaskG=1)
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_9"')
+      MaterialExpressionEditorX=512
+      MaterialExpressionEditorY=1856
+      MaterialExpressionGuid=35FD3A144A335FCA00387FAA27E926CA
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_16"
+      A=(Expression=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_1"')
+      B=(Expression=MaterialExpressionStaticSwitch'"MF_Doom:MaterialExpressionStaticSwitch_3"')
+      MaterialExpressionEditorX=704
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=8202C2FD44E86A30212580B4DA01E1E7
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionTime'"MF_Doom:MaterialExpressionTime_1"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_6"')
+      MaterialExpressionEditorX=-1888
+      MaterialExpressionEditorY=1280
+      MaterialExpressionGuid=DF65914E494B9DA0592C8B87E82FAB2B
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionDotProduct'"MF_Doom:MaterialExpressionDotProduct_0"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_7"')
+      MaterialExpressionEditorX=-1424
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=FEDE2E774E5723F220CCA682B034B1DE
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionAdd'"MF_Doom:MaterialExpressionAdd_1"')
+      ConstB=0.500000
+      MaterialExpressionEditorX=-928
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=731FE0A94A154661E42740835382DB30
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7"
+      A=(Expression=MaterialExpressionLinearInterpolate'"MF_Doom:MaterialExpressionLinearInterpolate_0"')
+      B=(Expression=MaterialExpressionStaticSwitch'"MF_Doom:MaterialExpressionStaticSwitch_1"')
+      MaterialExpressionEditorX=160
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=2B7479154904326C300F2F9C22C1307D
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8"
+      A=(Expression=MaterialExpressionTime'"MF_Doom:MaterialExpressionTime_2"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_2"')
+      MaterialExpressionEditorX=-1568
+      MaterialExpressionEditorY=-288
+      MaterialExpressionGuid=DF65914E494B9DA0592C8B87E82FAB2B
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_1"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"MF_Doom:MaterialExpressionTextureCoordinate_0"')
+      Speed=(Expression=MaterialExpressionAppendVector'"MF_Doom:MaterialExpressionAppendVector_0"')
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=1808
+      MaterialExpressionGuid=20B688384911B293DF17A0AB9457F182
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_0"
+      Base=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_6"')
+      Exponent=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_4"')
+      MaterialExpressionEditorX=-640
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=C5750C08415C0E59E62AB8AEA1EF783A
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionReroute_0"
+      Input=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_4"')
+      MaterialExpressionEditorX=-1536
+      MaterialExpressionEditorY=1312
+      MaterialExpressionGuid=906DE81847ECAE95FE8D9CAE5AC127FD
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionReroute_1"
+      Input=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_7"')
+      MaterialExpressionEditorX=480
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=98DE633C4F0B5BD3FCE6E78A00A5B994
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionReroute_2"
+      Input=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_8"')
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=-256
+      MaterialExpressionGuid=906DE81847ECAE95FE8D9CAE5AC127FD
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionReroute_3"
+      Input=(Expression=MaterialExpressionVectorParameter'"MF_Doom:MaterialExpressionVectorParameter_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=-672
+      MaterialExpressionGuid=60ED870B4E41BE81620E9F94EFC9A375
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionRound_0"
+      Input=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_10"')
+      MaterialExpressionEditorX=-944
+      MaterialExpressionEditorY=-288
+      MaterialExpressionGuid=AB36EF6F481B58931D8886A06F0BF9FA
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      ParameterName="Base Reflect"
+      ExpressionGUID=5A59077E48E414248BB071B9E72FB1C0
+      MaterialExpressionEditorX=-1072
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=3FE15704486F76658BD020AA1AC07124
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_14"
+      ParameterName="Noise Pan UP"
+      ExpressionGUID=FBEB407F465959260865B59DED492E97
+      MaterialExpressionEditorX=-608
+      MaterialExpressionEditorY=2016
+      MaterialExpressionGuid=A4753DF74280AD494C03F5B32E366FE8
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_15"
+      ParameterName="Noise Pan Right"
+      ExpressionGUID=2C1396724A45080F38B637AB5821B29F
+      MaterialExpressionEditorX=-608
+      MaterialExpressionEditorY=1936
+      MaterialExpressionGuid=381F72FA45E1002B5240D4B8BB062E42
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionSine_0"
+      Input=(Expression=MaterialExpressionAdd'"MF_Doom:MaterialExpressionAdd_0"')
+      MaterialExpressionEditorX=-1152
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=1BB17B30486A894A594AD6AA5DF5922B
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionSine_1"
+      Input=(Expression=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_2"')
+      MaterialExpressionEditorX=-1344
+      MaterialExpressionEditorY=-288
+      MaterialExpressionGuid=1BB17B30486A894A594AD6AA5DF5922B
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_0"
+      MaterialExpressionEditorX=-634
+      MaterialExpressionEditorY=-398
+      MaterialExpressionGuid=1CE779DA4777C59F3E5170A98451B76A
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_1"
+      MaterialExpressionEditorX=-848
+      MaterialExpressionEditorY=1232
+      MaterialExpressionGuid=1CE779DA4777C59F3E5170A98451B76A
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_1"
+      A=(Expression=MaterialExpressionPower'"MF_Doom:MaterialExpressionPower_0"')
+      B=(Expression=MaterialExpressionConstant'"MF_Doom:MaterialExpressionConstant_0"')
+      Value=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_10"')
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=1EC19C71480402B2922159BFD374BC78
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_2"
+      A=(Expression=MaterialExpressionLinearInterpolate'"MF_Doom:MaterialExpressionLinearInterpolate_3"')
+      B=(Expression=MaterialExpressionReroute'"MF_Doom:MaterialExpressionReroute_3"')
+      Value=(Expression=MaterialExpressionFunctionInput'"MF_Doom:MaterialExpressionFunctionInput_0"')
+      MaterialExpressionEditorX=-48
+      MaterialExpressionEditorY=-576
+      MaterialExpressionGuid=1EC19C71480402B2922159BFD374BC78
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_3"
+      A=(Expression=MaterialExpressionConstant'"MF_Doom:MaterialExpressionConstant_2"')
+      B=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_15"')
+      MaterialExpressionEditorX=688
+      MaterialExpressionEditorY=1728
+      MaterialExpressionGuid=1EC19C71480402B2922159BFD374BC78
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      MaterialExpressionEditorX=-528
+      MaterialExpressionEditorY=1808
+      MaterialExpressionGuid=FE402D164E39E99F311445A5B08C2F56
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0"
+      ParameterName="Noise"
+      ExpressionGUID=1D87616545DB9A49148DB58F5D68473A
+      Coordinates=(Expression=MaterialExpressionMultiply'"MF_Doom:MaterialExpressionMultiply_14"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M"'
+      SamplerType=SAMPLERTYPE_Masks
+      MaterialExpressionEditorX=192
+      MaterialExpressionEditorY=1792
+      MaterialExpressionGuid=8BC1D7E14CD5A184B0AD6EAD973C5488
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionTime_1"
+      MaterialExpressionEditorX=-2048
+      MaterialExpressionEditorY=1264
+      MaterialExpressionGuid=673D753E465C8913991A9E91A6127056
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionTime_2"
+      MaterialExpressionEditorX=-1728
+      MaterialExpressionEditorY=-304
+      MaterialExpressionGuid=673D753E465C8913991A9E91A6127056
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1"
+      ParameterName="Color 1"
+      ExpressionGUID=108176F34B30C35143DE87AD9FCF8E49
+      MaterialExpressionEditorX=-1232
+      MaterialExpressionEditorY=-720
+      MaterialExpressionGuid=8F2E9334438CCF9891FBF8BDED3C62FB
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_2"
+      ParameterName="Color 2"
+      ExpressionGUID=AB82E4A94B609888770D079AD5AA942C
+      MaterialExpressionEditorX=-1232
+      MaterialExpressionEditorY=-528
+      MaterialExpressionGuid=C58DBE3F47DF4064D1A89D84533B6B5A
+      Function=MaterialFunction'"MF_Doom"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'"MaterialExpressionFunctionOutput_0"'
+   FunctionExpressions(1)=MaterialExpressionFresnel'"MaterialExpressionFresnel_0"'
+   FunctionExpressions(2)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   FunctionExpressions(3)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   FunctionExpressions(4)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_1"'
+   FunctionExpressions(5)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_2"'
+   FunctionExpressions(6)=MaterialExpressionTime'"MaterialExpressionTime_1"'
+   FunctionExpressions(7)=MaterialExpressionMultiply'"MaterialExpressionMultiply_4"'
+   FunctionExpressions(8)=MaterialExpressionMultiply'"MaterialExpressionMultiply_5"'
+   FunctionExpressions(9)=MaterialExpressionAdd'"MaterialExpressionAdd_0"'
+   FunctionExpressions(10)=MaterialExpressionSine'"MaterialExpressionSine_0"'
+   FunctionExpressions(11)=MaterialExpressionAdd'"MaterialExpressionAdd_1"'
+   FunctionExpressions(12)=MaterialExpressionMultiply'"MaterialExpressionMultiply_6"'
+   FunctionExpressions(13)=MaterialExpressionReroute'"MaterialExpressionReroute_0"'
+   FunctionExpressions(14)=MaterialExpressionMultiply'"MaterialExpressionMultiply_7"'
+   FunctionExpressions(15)=MaterialExpressionReroute'"MaterialExpressionReroute_1"'
+   FunctionExpressions(16)=MaterialExpressionTime'"MaterialExpressionTime_2"'
+   FunctionExpressions(17)=MaterialExpressionMultiply'"MaterialExpressionMultiply_8"'
+   FunctionExpressions(18)=MaterialExpressionAdd'"MaterialExpressionAdd_3"'
+   FunctionExpressions(19)=MaterialExpressionMultiply'"MaterialExpressionMultiply_10"'
+   FunctionExpressions(20)=MaterialExpressionReroute'"MaterialExpressionReroute_2"'
+   FunctionExpressions(21)=MaterialExpressionSine'"MaterialExpressionSine_1"'
+   FunctionExpressions(22)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_2"'
+   FunctionExpressions(23)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_3"'
+   FunctionExpressions(24)=MaterialExpressionRound'"MaterialExpressionRound_0"'
+   FunctionExpressions(25)=MaterialExpressionPower'"MaterialExpressionPower_0"'
+   FunctionExpressions(26)=MaterialExpressionDotProduct'"MaterialExpressionDotProduct_0"'
+   FunctionExpressions(27)=MaterialExpressionMultiply'"MaterialExpressionMultiply_13"'
+   FunctionExpressions(28)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   FunctionExpressions(29)=MaterialExpressionMultiply'"MaterialExpressionMultiply_14"'
+   FunctionExpressions(30)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_0"'
+   FunctionExpressions(31)=MaterialExpressionMultiply'"MaterialExpressionMultiply_15"'
+   FunctionExpressions(32)=MaterialExpressionPanner'"MaterialExpressionPanner_1"'
+   FunctionExpressions(33)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_14"'
+   FunctionExpressions(34)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_15"'
+   FunctionExpressions(35)=MaterialExpressionAppendVector'"MaterialExpressionAppendVector_0"'
+   FunctionExpressions(36)=MaterialExpressionMultiply'"MaterialExpressionMultiply_16"'
+   FunctionExpressions(37)=MaterialExpressionStaticSwitch'"MaterialExpressionStaticSwitch_1"'
+   FunctionExpressions(38)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   FunctionExpressions(39)=MaterialExpressionStaticSwitch'"MaterialExpressionStaticSwitch_2"'
+   FunctionExpressions(40)=MaterialExpressionStaticSwitch'"MaterialExpressionStaticSwitch_3"'
+   FunctionExpressions(41)=MaterialExpressionConstant'"MaterialExpressionConstant_2"'
+   FunctionExpressions(42)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_0"'
+   FunctionExpressions(43)=MaterialExpressionStaticBool'"MaterialExpressionStaticBool_0"'
+   FunctionExpressions(44)=MaterialExpressionReroute'"MaterialExpressionReroute_3"'
+   FunctionExpressions(45)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_1"'
+   FunctionExpressions(46)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_2"'
+   FunctionExpressions(47)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_3"'
+   FunctionExpressions(48)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_4"'
+   FunctionExpressions(49)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_5"'
+   FunctionExpressions(50)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_6"'
+   FunctionExpressions(51)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_7"'
+   FunctionExpressions(52)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_8"'
+   FunctionExpressions(53)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_9"'
+   FunctionExpressions(54)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_10"'
+   FunctionExpressions(55)=MaterialExpressionStaticBool'"MaterialExpressionStaticBool_1"'
+   FunctionEditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_0"'
+   DependentFunctionExpressionCandidates(0)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_2"'
+   CombinedInputTypes=271
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+End Object

@@ -1,0 +1,33 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_Doom_Eternal_Inst2"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=F648D13346A85C1DC363A8BFAFE7B972
+   Parent=Material'"/Game/Demo/D1/M_Doom_Eternal.M_Doom_Eternal"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Base Reflect"),ExpressionGUID=5A59077E48E414248BB071B9E72FB1C0)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Expo"),ParameterValue=5.795758,ExpressionGUID=92E97011478E61E3437430BCC803B927)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Noise Pan Right"),ParameterValue=1.000000,ExpressionGUID=2C1396724A45080F38B637AB5821B29F)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Noise Pan UP"),ParameterValue=1.000000,ExpressionGUID=FBEB407F465959260865B59DED492E97)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Noise power"),ParameterValue=5.000000,ExpressionGUID=40421A744CA7D5A4B32B34A1F8C8FF04)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Number of Lines"),ParameterValue=1.000000,ExpressionGUID=C140A2784957F9C62D5ABB84748A7051)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Overall Brightness"),ParameterValue=12.000000,ExpressionGUID=38552A5B43E65C0A48CCE8B7027B3C21)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Seperation"),ParameterValue=10.000000,ExpressionGUID=261C39D3451BFE10510C4B8EDE6AA932)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="Tiling"),ParameterValue=20.000000,ExpressionGUID=4D21265942E09341E45AA3B28F0C8348)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="Color shift speed"),ParameterValue=0.500000,ExpressionGUID=4C6817344CCFD3EC2D0A369DAE07831A)
+   ScalarParameterValues(10)=(ParameterInfo=(Name="Line Speed"),ParameterValue=2.000000,ExpressionGUID=1BF4750D4EEBBEBB5CB9AC877588E56E)
+   ScalarParameterValues(11)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Color 1"),ParameterValue=(R=22.000000,G=0.000000,B=16.238483,A=0.000000),ExpressionGUID=108176F34B30C35143DE87AD9FCF8E49)
+   VectorParameterValues(1)=(ParameterInfo=(Name="Color 2"),ParameterValue=(R=0.000000,G=22.000000,B=3.001398,A=0.000000),ExpressionGUID=AB82E4A94B609888770D079AD5AA942C)
+   VectorParameterValues(2)=(ParameterInfo=(Name="Direction"),ParameterValue=(R=0.000000,G=0.000000,B=1.000000,A=0.000000),ExpressionGUID=14A1687744B362E56B3F16BCC638ECAE)
+   TextureParameterValues(0)=(ParameterInfo=(Name="Noise"),ParameterValue=Texture2D'"/Game/Demo/D1/Texture/T_Glow_5.T_Glow_5"',ExpressionGUID=1D87616545DB9A49148DB58F5D68473A)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=44879B5B4D7D73DAFFD57C89D66732AD
+   ReferencedTextureGuids(1)=61C3F5C046EB1D805A0741BAA30CF3A8
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureReference="/Game/Creatures_Pack/Textures/Creature_Troll/T_Troll_Albedo.T_Troll_Albedo")
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureReference="/Game/Creatures_Pack/Textures/Creature_Troll/T_Troll_normals.T_Troll_normals")
+   TextureStreamingData(2)=(SamplingScale=20.000000,UVChannelIndex=0,TextureName="T_Glow_5",TextureReference="/Game/Demo/D1/Texture/T_Glow_5.T_Glow_5")
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=A366B84F44BC88670F5EBA9FAA935DC6
+End Object
