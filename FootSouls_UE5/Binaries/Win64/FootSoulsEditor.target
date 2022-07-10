@@ -2381,6 +2381,18 @@
 			"Type": "DynamicLibrary"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/AGRPRO/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/AGRPRO/Binaries/Win64/UnrealEditor-AGRPRO.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/AGRPRO/Binaries/Win64/UnrealEditor-AGRPRO.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -3042,6 +3054,34 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderShaderInfoDump.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/Binaries/Win64/UnrealEditor-HoudiniEngine.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/Binaries/Win64/UnrealEditor-HoudiniEngine.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/Binaries/Win64/UnrealEditor-HoudiniEngineEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/Binaries/Win64/UnrealEditor-HoudiniEngineEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/Binaries/Win64/UnrealEditor-HoudiniEngineRuntime.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/Binaries/Win64/UnrealEditor-HoudiniEngineRuntime.pdb",
 			"Type": "SymbolFile"
 		}
 	],
@@ -23339,6 +23379,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/AGRPRO/AGRPRO.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/AndroidMedia.uplugin",
 			"Type": "UFS"
 		},
@@ -23568,6 +23612,10 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/Developer/RiderLink/RiderLink.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/Runtime/Houdini Engine/Unreal/19.0.657/5.0/HoudiniEngine/HoudiniEngine.uplugin",
 			"Type": "UFS"
 		}
 	],
