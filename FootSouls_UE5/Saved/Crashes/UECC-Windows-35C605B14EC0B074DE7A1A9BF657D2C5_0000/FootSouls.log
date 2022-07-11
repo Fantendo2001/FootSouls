@@ -1,0 +1,1615 @@
+﻿Log file open, 07/06/22 17:17:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=40452)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FootSouls
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Worktool\Fork_default2\FootSouls\FootSouls_UE5\FootSouls.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e2c037ba4991602b1b5ac1b9b1e852a0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.360253
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-35C605B14EC0B074DE7A1A9BF657D2C5
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AGRPRO
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/AGRPRO/Content/' mounted to '/AGRPRO/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:7890'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.06-09.17.41:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.06-09.17.41:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.06-09.17.41:842][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.06-09.17.41:843][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.06-09.17.41:843][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.06-09.17.41:843][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.06-09.17.41:843][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.06-09.17.41:843][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.06-09.17.41:844][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.06-09.17.41:845][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.06-09.17.41:867][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.06-09.17.41:867][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.06-09.17.42:059][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.06-09.17.42:059][  0]LogD3D12RHI: Adapter has 6023MB of dedicated video memory, 0MB of dedicated system memory, and 8118MB of shared system memory, 1 output[s]
+[2022.07.06-09.17.42:075][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.06-09.17.42:075][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8118MB of shared system memory, 0 output[s]
+[2022.07.06-09.17.42:075][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.06-09.17.42:076][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.06-09.17.42:076][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.06-09.17.42:076][  0]LogHAL: Display: Platform has ~ 16 GB [17024741376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.06-09.17.42:076][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.06-09.17.42:076][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.06-09.17.42:076][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.06-09.17.42:076][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.06-09.17.42:076][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.06-09.17.42:076][  0]LogInit: Computer: LAPTOP-S3PP9V8S
+[2022.07.06-09.17.42:076][  0]LogInit: User: PrincessTang
+[2022.07.06-09.17.42:076][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.06-09.17.42:076][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.06-09.17.42:076][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.07.06-09.17.42:076][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.06-09.17.42:076][  0]LogMemory: Process Physical Memory: 281.41 MB used, 291.25 MB peak
+[2022.07.06-09.17.42:076][  0]LogMemory: Process Virtual Memory: 255.63 MB used, 255.63 MB peak
+[2022.07.06-09.17.42:076][  0]LogMemory: Physical Memory: 9070.01 MB used,  7166.05 MB free, 16236.06 MB total
+[2022.07.06-09.17.42:076][  0]LogMemory: Virtual Memory: 21385.86 MB used,  8162.20 MB free, 29548.06 MB total
+[2022.07.06-09.17.42:076][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.06-09.17.42:125][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.06-09.17.42:152][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.06-09.17.42:157][  0]LogInit: Using OS detected language (zh-CN).
+[2022.07.06-09.17.42:157][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.07.06-09.17.42:168][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so 'zh-Hans' will be used for the language.
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.07.06-09.17.42:255][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.07.06-09.17.42:294][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.06-09.17.42:311][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.06-09.17.42:311][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 微软拼音 (TSF IME).
+[2022.07.06-09.17.42:311][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 触控输入更正 (TSF IME).
+[2022.07.06-09.17.42:312][  0]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 微软拼音 (TSF IME).
+[2022.07.06-09.17.42:327][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.06-09.17.42:327][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.06-09.17.42:567][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.06-09.17.42:572][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.06-09.17.42:572][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.06-09.17.42:639][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.06-09.17.42:706][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.06-09.17.42:712][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.06-09.17.42:728][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.06-09.17.42:755][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.06-09.17.42:755][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.06-09.17.42:796][  0]LogD3D12RHI:     GPU DeviceId: 0x2560 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.06-09.17.42:796][  0]LogWindows: EnumDisplayDevices:
+[2022.07.06-09.17.42:797][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:1 D:1)
+[2022.07.06-09.17.42:797][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.07.06-09.17.42:797][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.07.06-09.17.42:798][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.07.06-09.17.42:798][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.06-09.17.42:798][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.07.06-09.17.42:798][  0]LogD3D12RHI:   Driver Version: 516.01 (internal:31.0.15.1601, unified:516.01)
+[2022.07.06-09.17.42:798][  0]LogD3D12RHI:      Driver Date: 4-24-2022
+[2022.07.06-09.17.42:798][  0]LogRHI: Texture pool is 3310 MB (70% of 4729 MB)
+[2022.07.06-09.17.42:798][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.06-09.17.42:798][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.06-09.17.42:810][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.06-09.17.42:821][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/FootSouls.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Intermediate/TurnkeyReport_0.log" -log="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Intermediate/TurnkeyLog_0.log" -project="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/FootSouls.uproject"  -platform=all'
+[2022.07.06-09.17.42:821][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/FootSouls.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Intermediate/TurnkeyReport_0.log" -log="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Intermediate/TurnkeyLog_0.log" -project="D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/FootSouls.uproject"  -platform=all" ]
+[2022.07.06-09.17.42:860][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.06-09.17.42:873][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.06-09.17.42:873][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.06-09.17.42:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.06-09.17.42:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.06-09.17.42:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.06-09.17.42:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.06-09.17.42:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.06-09.17.42:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.06-09.17.42:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.06-09.17.42:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.06-09.17.42:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.06-09.17.42:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.06-09.17.42:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.06-09.17.42:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.06-09.17.42:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.06-09.17.42:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.06-09.17.42:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.06-09.17.42:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.06-09.17.42:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.06-09.17.42:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.06-09.17.42:947][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.06-09.17.42:962][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.06-09.17.42:966][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.06-09.17.42:966][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.06-09.17.42:966][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.06-09.17.42:966][  0]LogTargetPlatformManager:   PCM
+[2022.07.06-09.17.42:977][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.06-09.17.42:977][  0]LogTargetPlatformManager:   BINKA
+[2022.07.06-09.17.42:977][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.06-09.17.42:977][  0]LogTargetPlatformManager:   OGG
+[2022.07.06-09.17.42:977][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.06-09.17.42:977][  0]LogTargetPlatformManager:   OPUS
+[2022.07.06-09.17.43:033][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.06-09.17.43:043][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.06-09.17.43:048][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.06-09.17.43:048][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.06-09.17.43:048][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.06-09.17.43:048][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.06-09.17.43:048][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.06-09.17.43:048][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.06-09.17.43:048][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.06-09.17.43:048][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.06-09.17.43:048][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.06-09.17.43:049][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.06-09.17.43:049][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.06-09.17.43:049][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.06-09.17.43:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.06-09.17.43:052][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.06-09.17.43:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.06-09.17.43:052][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.06-09.17.43:068][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.07.06-09.17.43:069][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.06-09.17.43:069][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.06-09.17.43:078][  0]LogDerivedDataCache: Speed tests for C:/Users/Princess Tang/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.06-09.17.43:078][  0]LogDerivedDataCache: Display: Performance to C:/Users/Princess Tang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=312.45MBs, RandomWriteSpeed=180.93MBs. Assigned SpeedClass 'Local'
+[2022.07.06-09.17.43:078][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Princess Tang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.06-09.17.43:078][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.06-09.17.43:078][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.06-09.17.43:083][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.06-09.17.43:083][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.06-09.17.43:083][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Intermediate/Shaders/WorkingDirectory/40756/).
+[2022.07.06-09.17.43:083][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Princess Tang/AppData/Local/Temp/UnrealShaderWorkingDir/13D9146842111FB834AC479BC58C6E20/'.
+[2022.07.06-09.17.43:084][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.06-09.17.43:084][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.07.06-09.17.44:344][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.06-09.17.44:344][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.06-09.17.44:345][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.06-09.17.44:380][  0]LogAssetRegistry: FAssetRegistry took 0.0087 seconds to start up
+[2022.07.06-09.17.44:385][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.06-09.17.44:548][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.06-09.17.44:549][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.06-09.17.44:741][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.06-09.17.44:741][  0]LogDeviceProfileManager: Active device profile: [000004EA336A0540][000004EA26FC5000 50] WindowsEditor
+[2022.07.06-09.17.44:741][  0]LogDeviceProfileManager: Profiles: [000004EA336A0000][000004EA26FC2800 50] Windows, [000004EA336A0540][000004EA26FC5000 50] WindowsEditor, [000004EA336A2680][000004EA2E07A000 50] WindowsServer, [000004EA336A24C0][000004EA26F65000 50] WindowsClient, [000004EA336A2300][000004EA19217800 50] IOS, [000004EA336A2140][000004EA2E07C800 50] iPadAir2, [000004EA336A4EC0][000004EA33680000 50] IPadPro, [000004EA336A5240][000004EA33682800 50] iPadAir3, [000004EA336A47C0][000004EA33687800 50] iPadAir4, [000004EA336A0E00][000004EA3368A000 50] iPadMini4, [000004EA336A2D80][000004EA3368C800 50] iPadMini5, [000004EA336A5400][000004EA26FCA000 50] iPadMini6, [000004EA336A8340][000004EA336D2800 50] iPhone6S, [000004EA336A86C0][000004EA336D0000 50] iPhone7, [000004EA336A8A40][000004EA336D5000 50] iPodTouch7, [000004EA336A39C0][000004EA336DA000 50] iPhone6SPlus, [000004EA336A7A80][000004EA336DC800 50] iPhone7Plus, [000004EA336A5940][000004EA33685000 50] iPhoneSE, [000004EA336A16C0][000004EA336D7800 50] iPhone8, [000004EA336A78C0][000004EA33670000 50] iPhone8Plus, [000004EA336A2BC0][000004EA33675000 50] iPhoneX, [000004EA336A3D40][000004EA33677800 50] iPhoneXS, [000004EA336A71C0][000004EA3367A000 50] iPhoneXSMax, [000004EA336A2840][000004EA3367C800 50] iPhoneXR, [000004EA336A0FC0][000004EA26F67800 50] iPhone11, [000004EA336A5E80][000004EA33630000 50] iPhone11Pro, [000004EA336A0A80][000004EA33635000 50] iPhone11ProMax, [000004EA336A0C40][000004EA33637800 50] iPhoneSE2, [000004EA336A1180][000004EA3363A000 50] iPhone12Mini, [000004EA336A7FC0][000004EA3363C800 50] iPhone12, [000004EA336A0700][000004EA33672800 50] iPhone12Pro, [000004EA336A6900][000004EA33640000 50] iPhone12ProMax, [000004EA336A1F80][000004EA33645000 50] iPhone13Mini, [000004EA336A6740][000004EA33647800 50] iPhone13, [000004EA336A40C0][000004EA3364A000 50] iPhone13Pro, [000004EA336A8180][000004EA3364C800 50] iPhone13ProMax, [000004EA336A3640][000004EA33632800 50] iPadPro105, [000004EA336A1340][000004EA336E0000 50] iPadPro129, [000004EA336A4280][000004EA336E5000 50] iPadPro97, [000004EA336A8500][000004EA336E7800 50] iPadPro2_129, [000004EA336A3100][000004EA336EA000 50] iPad5, [000004EA336A1C00][000004EA336EC800 50] iPad6, [000004EA336A6040][000004EA33642800 50] iPad7, [000004EA336A1DC0][000004EA336F0000 50] iPad8, [000004EA336A6C80][000004EA336F5000 50] iPad9, [000004EA336A1A40][000004EA336F7800 50] iPadPro11, [000004EA336A4D00][000004EA336FA000 50] iPadPro2_11, [000004EA336A8C00][000004EA336FC800 50] iPadPro3_11, [000004EA336A6200][000004EA336E2800 50] iPadPro3_129, [000004EA336A2F40][000004EA33650000 50] iPadPro4_129, [000004EA336A1880][000004EA33655000 50] iPadPro5_129, [000004EA336A6E40][000004EA33657800 50] AppleTV, [000004EA336A4440][000004EA3365A000 50] AppleTV4K, [000004EA336A3F00][000004EA3365C800 50] TVOS, [000004EA336AA2C0][000004EA33740000 50] Mac, [000004EA336AA640][000004EA33742800 50] MacEditor, [000004EA336A6580][000004EA33747800 50] MacClient, [000004EA336A7540][000004EA3374A000 50] MacServer, [000004EA336AA9C0][000004EA336F2800 50] Linux, [000004EA336A9BC0][000004EA33652800 50] LinuxEditor, [000004EA336A5780][000004EA3374C800 50] LinuxArm64Editor, [000004EA336A9680][000004EA33700000 50] LinuxArm64, [000004EA336A08C0][000004EA33705000 50] LinuxClient, [000004EA336A7380][000004EA33707800 50] LinuxArm64Client, [000004EA336A9F40][000004EA3370A000 50] LinuxServer, [000004EA336A8DC0][000004EA3370C800 50] LinuxArm64Server, [000004EA336A4B40][000004EA33745000 50] Android, [000004EA336A8880][000004EA33720000 50] Android_Preview_OpenGL, [000004EA336A9140][000004EA33725000 50] Android_Preview_Vulkan, [000004EA336A5CC0][000004EA33727800 50] Android_Low, [000004EA336A7700][000004EA3372A000 50] Android_Mid, [000004EA336A5080][000004EA3372C800 50] Android_High, [000004EA336AAB80][000004EA33702800 50] Android_Default, [000004EA336A63C0][000004EA33730000 50] Android_Adreno4xx, [000004EA336A7000][000004EA33735000 50] Android_Adreno5xx_Low, [000004EA336A9840][000004EA33737800 50] Android_Adreno5xx, [000004EA336A8F80][000004EA3373A000 50] Android_Adreno6xx, [000004EA336A6AC0][000004EA3373C800 50] Android_Adreno6xx_Vulkan, [000004EA336AA100][000004EA33722800 50] Android_Adreno7xx, [000004EA336A3B80][000004EA33750000 50] Android_Adreno7xx_Vulkan, [000004EA336A1500][000004EA33755000 50] Android_Mali_T6xx, [000004EA336A3480][000004EA33757800 50] Android_Mali_T7xx, [000004EA336AA480][000004EA3375A000 50] Android_Mali_T8xx, [000004EA336AA800][000004EA3375C800 50] Android_Mali_G71, [000004EA336A4980][000004EA33732800 50] Android_Mali_G72, [000004EA336A3800][000004EA33710000 50] Android_Mali_G72_Vulkan, [000004EA336A0380][000004EA33715000 50] Android_Mali_G76, [000004EA336A55C0][000004EA33717800 50] Android_Mali_G76_Vulkan, [000004EA336A9300][000004EA3371A000 50] Android_Mali_G77, [000004EA336AAD40][000004EA3371C800 50] Android_Mali_G77_Vulkan, [000004EA336AB7C0][000004EA33752800 50] Android_Mali_G78, [000004EA336A4600][000004EA33760000 50] Android_Mali_G78_Vulkan, [000004EA336A7C40][000004EA33765000 50] Android_Mali_G710, [000004EA336A32C0][000004EA33767800 50] Android_Mali_G710_Vulkan, [000004EA336AB600][000004EA3376A000 50] Android_Xclipse_920, [000004EA336A94C0][000004EA3376C800 50] Android_Xclipse_920_Vulkan, [000004EA336A7E00][000004EA33712800 50] Android_Vulkan_SM5, [000004EA336ACE80][000004EA33770000 50] Android_PowerVR_G6xxx, [000004EA336AC5C0][000004EA33775000 50] Android_PowerVR_GT7xxx, [000004EA336A9D80][000004EA33777800 50] Android_PowerVR_GE8xxx, [000004EA336AD040][000004EA3377A000 50] Android_PowerVR_GM9xxx, [000004EA336AC080][000004EA3377C800 50] Android_PowerVR_GM9xxx_Vulkan, [000004EA336AC400][000004EA33762800 50] Android_TegraK1, [000004EA336AD200][000004EA33780000 50] Android_Unknown_Vulkan, [000004EA336ACB00][000004EA33785000 50] Oculus_Quest, [000004EA336AD740][000004EA33787800 50] Oculus_Quest2, [000004EA336ADAC0][000004EA3378A000 50] HoloLens, 
+[2022.07.06-09.17.44:741][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.06-09.17.44:754][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.06-09.17.44:758][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.07.06-09.17.44:758][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.07.06-09.17.44:758][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.06-09.17.44:758][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.06-09.17.44:759][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.06-09.17.44:956][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.06-09.17.44:956][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.06-09.17.44:956][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.06-09.17.44:956][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.06-09.17.44:956][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.06-09.17.44:973][  0]LogNetVersion: FootSouls 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1310157587)
+[2022.07.06-09.17.45:085][  0]LogSlate: Border
+[2022.07.06-09.17.45:085][  0]LogSlate: BreadcrumbButton
+[2022.07.06-09.17.45:085][  0]LogSlate: Default
+[2022.07.06-09.17.45:085][  0]LogSlate: Icons.Save
+[2022.07.06-09.17.45:085][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.06-09.17.45:085][  0]LogSlate: ListView
+[2022.07.06-09.17.45:085][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.06-09.17.45:085][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.06-09.17.45:085][  0]LogSlate: TableView.DarkRow
+[2022.07.06-09.17.45:085][  0]LogSlate: TableView.Row
+[2022.07.06-09.17.45:085][  0]LogSlate: TreeView
+[2022.07.06-09.17.45:246][  0]SourceControl: 源码管理已禁用
+[2022.07.06-09.17.45:270][  0]SourceControl: 源码管理已禁用
+[2022.07.06-09.17.45:270][  0]SourceControl: 源码管理已禁用
+[2022.07.06-09.17.45:368][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.07.06-09.17.45:368][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.07.06-09.17.45:368][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.06-09.17.45:831][  0]LogPython: Using Python 3.9.7
+[2022.07.06-09.17.46:545][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D9FA143F4F261DD75BC888A67A0FB548 | Instance: BEEE42B64C8D5C156A833A9D93DBFAD7 (LAPTOP-S3PP9V8S-40756).
+[2022.07.06-09.17.46:602][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.06-09.17.46:608][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.06-09.17.46:692][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.06-09.17.46:840][  0]SourceControl: 源码管理已禁用
+[2022.07.06-09.17.46:849][  0]SourceControl: 源码管理已禁用
+[2022.07.06-09.17.46:869][  0]SourceControl: 源码管理已禁用
+[2022.07.06-09.17.46:879][  0]LogUProjectInfo: Found projects:
+[2022.07.06-09.17.47:250][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.06-09.17.47:351][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.06-09.17.47:383][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.06-09.17.47:383][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.06-09.17.47:510][  0]LogCollectionManager: Loaded 0 collections in 0.001742 seconds
+[2022.07.06-09.17.47:616][  0]LogFileCache: Scanning file cache for directory 'D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Collections/' took 0.00s
+[2022.07.06-09.17.47:616][  0]LogFileCache: Scanning file cache for directory 'D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/Developers/PrincessTang/Collections/' took 0.00s
+[2022.07.06-09.17.47:616][  0]LogFileCache: Scanning file cache for directory 'D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/Collections/' took 0.00s
+[2022.07.06-09.17.47:892][  0]LogEngine: Initializing Engine...
+[2022.07.06-09.17.47:905][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.06-09.17.48:131][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.06-09.17.48:132][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.06-09.17.48:144][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.17.48:169][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.06-09.17.48:170][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.06-09.17.48:195][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.06-09.17.48:196][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.06-09.17.48:196][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.06-09.17.48:196][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.06-09.17.48:196][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.06-09.17.48:196][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-09.17.48:196][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-09.17.48:196][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-09.17.48:196][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-09.17.48:196][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-09.17.48:196][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.06-09.17.48:196][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-09.17.48:196][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-09.17.48:197][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.06-09.17.48:197][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.06-09.17.48:197][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.06-09.17.48:203][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.06-09.17.48:395][  0]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2022.07.06-09.17.48:395][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-09.17.48:397][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-09.17.48:397][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-09.17.48:398][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.06-09.17.48:398][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.06-09.17.48:399][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.06-09.17.48:399][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.06-09.17.48:399][  0]LogInit: FAudioDevice initialized.
+[2022.07.06-09.17.48:399][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.06-09.17.48:399][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.06-09.17.48:399][  0]LogInit: Texture streaming: Enabled
+[2022.07.06-09.17.48:440][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.07.06-09.17.48:451][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.06-09.17.48:474][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.06-09.17.48:483][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.06-09.17.48:483][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: FootSoulsEditor Win64 Development
+[2022.07.06-09.17.49:847][  0]LogLiveCoding: Display: First instance in process group "UE_FootSouls_0xecd06ba8", spawning console
+[2022.07.06-09.17.49:847][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.06-09.17.49:847][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.06-09.17.49:868][  0]LogInit: Transaction tracking system initialized
+[2022.07.06-09.17.49:951][  0]BlueprintLog: New page: 编辑器加载
+[2022.07.06-09.17.50:162][  0]LocalizationService: 本地化服务已禁用
+[2022.07.06-09.17.50:213][  0]TimingProfiler: Initialize
+[2022.07.06-09.17.50:213][  0]TimingProfiler: OnSessionChanged
+[2022.07.06-09.17.50:213][  0]LoadingProfiler: Initialize
+[2022.07.06-09.17.50:213][  0]LoadingProfiler: OnSessionChanged
+[2022.07.06-09.17.50:213][  0]NetworkingProfiler: Initialize
+[2022.07.06-09.17.50:213][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.06-09.17.50:213][  0]MemoryProfiler: Initialize
+[2022.07.06-09.17.50:213][  0]MemoryProfiler: OnSessionChanged
+[2022.07.06-09.17.50:778][  0]LogFileCache: Scanning file cache for directory 'D:/Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/' took 0.03s
+[2022.07.06-09.17.50:778][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.06-09.17.51:017][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.06-09.17.51:019][  0]SourceControl: 源码管理已禁用
+[2022.07.06-09.17.51:019][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.924
+[2022.07.06-09.17.51:019][  0]Cmd: MAP LOAD FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.06-09.17.51:019][  0]LogEditorServer: Warning: Can't find file '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2022.07.06-09.17.51:019][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.06-09.17.51:019][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.085毫秒。
+[2022.07.06-09.17.51:019][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.000
+[2022.07.06-09.17.51:032][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.937
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: ================================================
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.06-09.17.51:032][  0]LogShaderCompilers: Display: ================================================
+[2022.07.06-09.17.51:109][  0]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 微软拼音 (TSF IME).
+[2022.07.06-09.17.51:143][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-09.17.51:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-09.17.51:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-09.17.51:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-09.17.51:180][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:180][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:182][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:182][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:183][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:183][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:185][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:185][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:186][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:186][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:188][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:188][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:189][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:189][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:191][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:191][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:192][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:192][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:193][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.06-09.17.51:193][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.06-09.17.51:489][  0]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.06-09.17.51:492][  0]LogSlate: Took 0.002636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.07.06-09.17.51:494][  0]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.06-09.17.51:495][  0]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.06-09.17.51:496][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.06-09.17.52:033][  0]LogStall: Startup...
+[2022.07.06-09.17.52:034][  0]LogStall: Startup complete.
+[2022.07.06-09.17.52:058][  0]LogLoad: (Engine Initialization) Total time: 11.96 seconds
+[2022.07.06-09.17.52:058][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.06-09.17.52:147][  0]LogAssetRegistry: Asset discovery search completed in 7.7678 seconds
+[2022.07.06-09.17.52:156][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.07.06-09.17.52:194][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.06-09.17.55:726][203]LogSlate: Took 0.000423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.06-09.19.43:684][679]LogDerivedDataCache: C:/Users/Princess Tang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.594 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.06-09.21.16:628][247]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到笔刷“ContentBrowser.ListViewFolderIcon.Base”。”
+[2022.07.06-09.21.16:628][247]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到笔刷“ContentBrowser.ListViewFolderIcon.Mask”。”
+[2022.07.06-09.21.23:253][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/New_Contents/enemy1/ThirdPerson/Blueprints/STARTAGAIN/BTS_PlayMontage/MutantWalking4UE4.MutantWalking4UE4
+[2022.07.06-09.21.23:254][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/New_Contents/enemy1/ThirdPerson/Blueprints/STARTAGAIN/BTS_PlayMontage/MutantSwiping4UE4.MutantSwiping4UE4
+[2022.07.06-09.21.23:254][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.06-09.21.24:617][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/New_Contents/enemy1/ThirdPerson/Blueprints/STARTAGAIN/BTS_PlayMontage/HeadHit4UE4_handsup.HeadHit4UE4_handsup
+[2022.07.06-09.21.24:617][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/New_Contents/enemy1/ThirdPerson/Blueprints/STARTAGAIN/BTS_PlayMontage/Idle4UE4.Idle4UE4
+[2022.07.06-09.21.24:617][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4.MutantSwiping4UE4
+[2022.07.06-09.21.24:709][458]LogSkeletalMesh: Display: 正在等待骨骼网格体就绪0/1（SK_001_AIOWN）……
+[2022.07.06-09.21.24:867][459]LogSkeletalMesh: Display: 正在等待骨骼网格体就绪0/1（SK_Mannequin00）……
+[2022.07.06-09.21.31:314][830]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup.HeadHit4UE4_handsup
+[2022.07.06-09.21.31:335][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.21.31:397][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.21.31:596][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.21.31:700][830]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.21.31:706][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.21.33:620][934]LogSlate: Window 'HeadHit4UE4_handsup' being destroyed
+[2022.07.06-09.21.33:625][934]LogSlate: Window 'HeadHit4UE4_handsup' being destroyed
+[2022.07.06-09.21.33:626][934]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.21.33:627][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.21.33:632][934]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.21.33:633][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.21.33:675][934]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.21.33:675][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.21.49:735][893]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.21.49:735][893]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.21.58:401][406]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.21.58:401][406]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.22.07:974][771]LogSlate: Window '消息' being destroyed
+[2022.07.06-09.22.07:980][771]Message dialog closed, result: Ok, title: 消息, text: 以下包仅存在于内存中，无法被重新加载：
+    /Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup
+[2022.07.06-09.22.08:922][813]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup.HeadHit4UE4_handsup
+[2022.07.06-09.22.08:922][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.22.08:929][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.22.09:078][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.22.09:133][813]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.22.09:139][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.22.12:577][  7]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.06-09.22.29:804][ 37]LogSlate: Window 'HeadHit4UE4_handsup' being destroyed
+[2022.07.06-09.22.29:809][ 37]LogSlate: Window 'HeadHit4UE4_handsup' being destroyed
+[2022.07.06-09.22.29:809][ 37]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.22.29:809][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.22.29:815][ 37]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.22.29:815][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.22.29:857][ 37]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.22.29:857][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.22.55:370][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.22.55:383][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.22.55:422][555]LogSlate: Took 0.000779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.06-09.23.10:304][441]LogSlate: Window '复制和重定向动画资产' being destroyed
+[2022.07.06-09.23.10:309][441]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.23.10:309][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.23.10:320][441]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.23.10:320][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.23.46:777][619]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.23.46:777][619]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.23.46:927][625]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.23.46:927][625]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.23.50:572][843]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.23.50:572][843]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.24.14:420][272]LogSlate: Window '替换引用' being destroyed
+[2022.07.06-09.24.18:719][527]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.24.18:719][527]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.24.26:018][962]LogContentBrowser: Attempting asset rename: HeadHit4UE4_handsup -> HeadHit4UE4_handsup
+[2022.07.06-09.24.26:629][998]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup.HeadHit4UE4_handsup
+[2022.07.06-09.24.26:630][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.24.26:636][998]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.24.26:802][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.24.26:861][998]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.24.26:867][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.24.42:685][915]Cmd: TRANSACTION UNDO
+[2022.07.06-09.24.42:692][915]LogEditorTransaction: Undo 编辑预览网格体
+[2022.07.06-09.24.42:759][915]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.24.48:231][222]LogSlate: Window 'HeadHit4UE4_handsup' being destroyed
+[2022.07.06-09.24.48:236][222]LogSlate: Window 'HeadHit4UE4_handsup' being destroyed
+[2022.07.06-09.24.48:236][222]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.24.48:236][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.24.48:244][222]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.24.48:244][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.24.48:287][222]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.24.48:287][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.24.55:017][624]LogLinker: Warning: Asset '/Game/怪物7/SK_Gruntling_Guardian_Skeleton' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.07.06-09.24.55:017][624]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/怪物7/SK_Gruntling_Guardian_Skeleton.SK_Gruntling_Guardian_Skeleton
+[2022.07.06-09.24.55:018][624]LogLinker: Warning: Asset '/Game/怪物7/SK_Gruntling_Guardian' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.07.06-09.24.55:018][624]LogLinker: Warning: Asset '/Game/怪物7/Materials/CharM_Gruntling_Guardian' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.07.06-09.24.55:018][624]LogLinker: Warning: Asset '/Game/怪物7/Textures/T_Gruntling_Guardian_D' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.07.06-09.24.55:019][624]LogLinker: Warning: Asset '/Game/怪物7/Textures/T_Gruntling_Guardian_N' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.07.06-09.24.55:019][624]LogLinker: Warning: Asset '/Game/怪物7/Textures/T_Gruntling_Guardian_E' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.07.06-09.24.55:019][624]LogLinker: Warning: Asset '/Game/怪物7/Textures/T_Gruntling_Guardian_M' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.07.06-09.24.55:026][624]LogMaterial: Display: Missing cached shadermap for CharM_Gruntling_Guardian in PCD3D_SM5, Default, SM5 (DDC key hash: 571246DFB50139C9B2A9C3F99D7D11B3F55C7B68), compiling. 
+[2022.07.06-09.24.55:097][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.24.55:106][624]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.24.55:301][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: ================================================
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Shaders Compiled: 32
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Jobs assigned 32, completed 2 (6.25%)
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Job execution time: average 2.39 s, max 2.39 s
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Job life time (pending + execution): average 2.48 s, max 2.48
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.48 s
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 4.57 jobs/batch
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Average processing rate: 0.81 jobs/sec
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Effective parallelization: 0.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 53.65% of total time (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 46.35% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.06-09.24.57:576][720]LogShaderCompilers: Display: ================================================
+[2022.07.06-09.25.08:668][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/SK_Gruntling_Guardian_Skeleton" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/SK_Gruntling_Guardian_Skeleton.uasset" SILENT=true
+[2022.07.06-09.25.08:675][339]LogPackageLocalizationCache: Processed 31 localized package path(s) for 2 prioritized culture(s) in 0.004849 seconds
+[2022.07.06-09.25.08:679][339]LogSavePackage: Moving output files for package: /Game/怪物7/SK_Gruntling_Guardian_Skeleton
+[2022.07.06-09.25.08:680][339]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/SK_Gruntling_Guardian_SkeletonB4008C4F4E46E86D6B267DAC08597C81.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/SK_Gruntling_Guardian_Skeleton.uasset'
+[2022.07.06-09.25.08:693][339]AssetCheck: New page: 资产保存：SK_Gruntling_Guardian_Skeleton
+[2022.07.06-09.25.08:693][339]LogContentValidation: Display: 正在验证Skeleton /Game/怪物7/SK_Gruntling_Guardian_Skeleton.SK_Gruntling_Guardian_Skeleton
+[2022.07.06-09.25.10:590][453]LogSlate: Window 'SK_Gruntling_Guardian_Skeleton' being destroyed
+[2022.07.06-09.25.10:594][453]LogSlate: Window 'SK_Gruntling_Guardian_Skeleton' being destroyed
+[2022.07.06-09.25.10:595][453]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.25.10:595][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.25.10:635][453]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.25.10:635][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.25.13:431][620]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/怪物7/SK_Gruntling_Guardian_Skeleton.SK_Gruntling_Guardian_Skeleton
+[2022.07.06-09.25.13:432][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.25.13:441][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.25.13:617][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.25.13:690][620]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-09.25.19:919][974]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Montage.HeadHit4UE4_handsup_Montage
+[2022.07.06-09.25.19:920][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.25.19:927][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.25.20:047][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.25.24:975][262]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.25.24:975][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.25.25:014][262]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.25.25:015][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.25.50:720][792]LogSlate: Window 'SK_Gruntling_Guardian_Skeleton' being destroyed
+[2022.07.06-09.25.50:725][792]LogSlate: Window 'SK_Gruntling_Guardian_Skeleton' being destroyed
+[2022.07.06-09.25.50:726][792]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.25.50:726][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.25.50:765][792]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.25.50:765][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.26.28:851][ 76]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/怪物7/SK_Gruntling_Guardian.SK_Gruntling_Guardian
+[2022.07.06-09.26.28:852][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.26.28:860][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.26.31:834][234]LogSlate: Window 'SK_Gruntling_Guardian' being destroyed
+[2022.07.06-09.26.31:840][234]LogSlate: Window 'SK_Gruntling_Guardian' being destroyed
+[2022.07.06-09.26.31:841][234]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.26.31:841][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.28.07:299][934]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/怪物7/SK_Gruntling_Guardian_Skeleton.SK_Gruntling_Guardian_Skeleton
+[2022.07.06-09.28.07:300][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.28.07:307][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.28.07:477][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.28.07:551][934]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-09.28.32:458][364]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/New_Contents/enemy1/ThirdPerson/Blueprints/STARTAGAIN/BTS_PlayMontage/HurricaneKick4UE4.HurricaneKick4UE4
+[2022.07.06-09.28.32:458][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.28.32:465][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.28.32:587][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.28.32:648][364]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.28.32:655][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.28.32:701][364]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-09.29.16:281][651]LogSlate: Window '新建一个动画资产' being destroyed
+[2022.07.06-09.29.16:324][651]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物7/001_SkeletonAI_Sequence.001_SkeletonAI_Sequence
+[2022.07.06-09.29.16:324][651]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.29.16:330][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.29.16:373][651]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.29.16:373][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.29.24:206][ 82]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.29.24:213][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.29.24:255][ 83]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.29.24:256][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.29.29:528][385]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.29.29:529][385]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-09.29.34:485][577]LogSlate: Window '消息' being destroyed
+[2022.07.06-09.29.34:492][577]Message dialog closed, result: Ok, title: 消息, text: 以下包仅存在于内存中，无法被重新加载：
+    /Game/怪物7/001_SkeletonAI_Sequence
+[2022.07.06-09.30.09:049][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.06-09.30.09:053][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.018
+[2022.07.06-09.30.09:053][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldSlash4UE4] ([1] browsable assets)...
+[2022.07.06-09.30.09:065][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/SwordAndShieldSlash4UE4.SwordAndShieldSlash4UE4]
+[2022.07.06-09.30.09:065][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldSlash4UE4]
+[2022.07.06-09.30.09:626][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldSlash4UE4_Auto1
+[2022.07.06-09.30.09:626][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/SwordAndShieldSlash4UE4_Auto14BA667A747AC5EE4DA8828B8C9457E2E.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldSlash4UE4_Auto1.uasset'
+[2022.07.06-09.30.09:627][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldRun4UE4] ([1] browsable assets)...
+[2022.07.06-09.30.09:634][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/SwordAndShieldRun4UE4.SwordAndShieldRun4UE4]
+[2022.07.06-09.30.09:634][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldRun4UE4]
+[2022.07.06-09.30.09:726][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldRun4UE4_Auto1
+[2022.07.06-09.30.09:726][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/SwordAndShieldRun4UE4_Auto1547F7F2243D551FBBB44B59AFD31AF5D.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldRun4UE4_Auto1.uasset'
+[2022.07.06-09.30.09:727][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4_Montage] ([1] browsable assets)...
+[2022.07.06-09.30.09:734][279]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4_Montage.SwordAndShieldAttack4UE4_Montage]
+[2022.07.06-09.30.09:734][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4_Montage]
+[2022.07.06-09.30.09:737][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4_Montage_Auto1
+[2022.07.06-09.30.09:737][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/SwordAndShieldAttack4UE4_MontageEB69B62D493A567081CE328F47AEBA3B.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4_Montage_Auto1.uasset'
+[2022.07.06-09.30.09:738][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4] ([1] browsable assets)...
+[2022.07.06-09.30.09:744][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4.SwordAndShieldAttack4UE4]
+[2022.07.06-09.30.09:744][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4]
+[2022.07.06-09.30.10:035][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4_Auto1
+[2022.07.06-09.30.10:035][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/SwordAndShieldAttack4UE4_Auto12DC8CE814F419FB3ED729AAE2028C2DF.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/SwordAndShieldAttack4UE4_Auto1.uasset'
+[2022.07.06-09.30.10:035][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint] ([2] browsable assets)...
+[2022.07.06-09.30.10:042][279]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/怪物7/BTS_PlayMontage/NewAnimBlueprint.NewAnimBlueprint]
+[2022.07.06-09.30.10:042][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint]
+[2022.07.06-09.30.10:052][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint_Auto1
+[2022.07.06-09.30.10:052][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/NewAnimBlueprint_Auto197D8B9A14421F5E1561D45ACF17E6AC0.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint_Auto1.uasset'
+[2022.07.06-09.30.10:052][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/MutantWalking4UE4] ([1] browsable assets)...
+[2022.07.06-09.30.10:059][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/MutantWalking4UE4.MutantWalking4UE4]
+[2022.07.06-09.30.10:059][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/MutantWalking4UE4]
+[2022.07.06-09.30.10:106][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/MutantWalking4UE4_Auto1
+[2022.07.06-09.30.10:106][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/MutantWalking4UE4_Auto1ED19EF534F61949AB998FE874D05C470.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/MutantWalking4UE4_Auto1.uasset'
+[2022.07.06-09.30.10:107][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4_Montage] ([1] browsable assets)...
+[2022.07.06-09.30.10:114][279]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4_Montage.MutantSwiping4UE4_Montage]
+[2022.07.06-09.30.10:114][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4_Montage]
+[2022.07.06-09.30.10:117][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4_Montage_Auto1
+[2022.07.06-09.30.10:117][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/MutantSwiping4UE4_Montage_Auto19649E8F04724A24ABCE0D7954A56FD67.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4_Montage_Auto1.uasset'
+[2022.07.06-09.30.10:118][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4] ([1] browsable assets)...
+[2022.07.06-09.30.10:124][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4.MutantSwiping4UE4]
+[2022.07.06-09.30.10:124][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4]
+[2022.07.06-09.30.10:581][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4_Auto1
+[2022.07.06-09.30.10:581][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/MutantSwiping4UE4_Auto13B4845D44F78713F3DD1A0BA093C9C24.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/MutantSwiping4UE4_Auto1.uasset'
+[2022.07.06-09.30.10:582][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/Idle4UE4_Montage] ([1] browsable assets)...
+[2022.07.06-09.30.10:589][279]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/怪物7/BTS_PlayMontage/Idle4UE4_Montage.Idle4UE4_Montage]
+[2022.07.06-09.30.10:589][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/Idle4UE4_Montage]
+[2022.07.06-09.30.10:591][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/Idle4UE4_Montage_Auto1
+[2022.07.06-09.30.10:591][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Idle4UE4_Montage_Auto1420E2AA24367AB969EA0189C72D0D86D.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/Idle4UE4_Montage_Auto1.uasset'
+[2022.07.06-09.30.10:592][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/Idle4UE4] ([1] browsable assets)...
+[2022.07.06-09.30.10:598][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/Idle4UE4.Idle4UE4]
+[2022.07.06-09.30.10:598][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/Idle4UE4]
+[2022.07.06-09.30.10:622][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/Idle4UE4_Auto1
+[2022.07.06-09.30.10:622][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Idle4UE4_Auto1DCE445494C669406CD0A81BC502B8DF9.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/Idle4UE4_Auto1.uasset'
+[2022.07.06-09.30.10:623][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4_Montage] ([1] browsable assets)...
+[2022.07.06-09.30.10:630][279]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4_Montage.HurricaneKick4UE4_Montage]
+[2022.07.06-09.30.10:630][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4_Montage]
+[2022.07.06-09.30.10:633][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4_Montage_Auto1
+[2022.07.06-09.30.10:633][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/HurricaneKick4UE4_Montage_Auto1627F8F31416C7A0A70D81BB74ADE7AA0.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4_Montage_Auto1.uasset'
+[2022.07.06-09.30.10:634][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4] ([1] browsable assets)...
+[2022.07.06-09.30.10:640][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4.HurricaneKick4UE4]
+[2022.07.06-09.30.10:640][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4]
+[2022.07.06-09.30.10:658][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4_Auto1
+[2022.07.06-09.30.10:658][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/HurricaneKick4UE4_Auto1A4AD8C2D4B24A799B55B88BEF30F44DB.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/HurricaneKick4UE4_Auto1.uasset'
+[2022.07.06-09.30.10:659][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Montage] ([1] browsable assets)...
+[2022.07.06-09.30.10:670][279]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Montage.HeadHit4UE4_handsup_Montage]
+[2022.07.06-09.30.10:670][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Montage]
+[2022.07.06-09.30.10:672][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Montage_Auto1
+[2022.07.06-09.30.10:672][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/HeadHit4UE4_handsup_Montage_AutoA076D1F8496DB4738D43508D45A7FE01.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Montage_Auto1.uasset'
+[2022.07.06-09.30.10:672][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup] ([1] browsable assets)...
+[2022.07.06-09.30.10:680][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup.HeadHit4UE4_handsup]
+[2022.07.06-09.30.10:680][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup]
+[2022.07.06-09.30.10:727][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Auto1
+[2022.07.06-09.30.10:727][279]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/HeadHit4UE4_handsup_Auto1537B92504266E15C86FF48A1D6D25D41.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/HeadHit4UE4_handsup_Auto1.uasset'
+[2022.07.06-09.30.10:727][279]LogFileHelpers: Auto-saving content packages took 1.675
+[2022.07.06-09.30.11:352][315]LogSlate: Window '001_SkeletonAI_Sequence' being destroyed
+[2022.07.06-09.30.11:359][315]LogSlate: Window '001_SkeletonAI_Sequence' being destroyed
+[2022.07.06-09.30.11:360][315]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.30.11:360][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.30.11:401][315]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.30.11:401][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.30.11:417][315]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.30.11:418][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.30.11:425][315]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.30.11:425][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.30.11:466][315]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.30.11:466][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.30.29:359][366]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.06-09.30.47:172][366]LogSlate: Window '选取父类' being destroyed
+[2022.07.06-09.30.47:179][366]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.06-09.30.47:183][366]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.06-09.30.47:192][367]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.07.06-09.30.54:601][802]LogContentBrowser: Attempting asset rename: NewBlueprint -> monster
+[2022.07.06-09.30.54:612][802]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.06-09.31.04:987][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/怪物7/monster.monster
+[2022.07.06-09.31.04:993][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.31.12:143][419]LogSlate: Took 0.001173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.06-09.31.28:135][366]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.32.11:037][905]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.32.12:221][974]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.32.43:719][844]BlueprintLog: New page: 编译monster
+[2022.07.06-09.32.43:775][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.07.06-09.32.43:838][845]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.32.46:642][ 13]LogSlate: Window 'monster' being destroyed
+[2022.07.06-09.32.46:648][ 13]LogSlate: Window 'monster' being destroyed
+[2022.07.06-09.32.46:655][ 13]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.32.46:655][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.33.15:916][321]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/怪物7/SK_Gruntling_Guardian_Skeleton.SK_Gruntling_Guardian_Skeleton
+[2022.07.06-09.33.15:919][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.33.15:933][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.33.16:110][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.33.16:196][321]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-09.33.35:500][455]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/New_Contents/enemy1/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2022.07.06-09.33.35:507][455]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2022.07.06-09.33.35:507][455]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2022.07.06-09.33.35:507][455]LogUObjectGlobals: Warning: 寻找对象“Object /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin”失败
+[2022.07.06-09.33.35:508][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.33.35:642][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.39.51:137][214]LogSlate: Window '插件' being destroyed
+[2022.07.06-09.39.51:144][214]LogSlate: Window '插件' being destroyed
+[2022.07.06-09.39.51:150][214]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.07.06-09.39.52:175][275]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2022.07.06-09.39.52:181][275]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2022.07.06-09.39.52:182][275]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.39.52:182][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.39.52:228][275]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.39.52:228][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.39.52:241][275]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.39.52:241][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.39.52:284][275]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-09.39.52:284][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-09.40.38:967][736]LogSlate: Window '新插件' being destroyed
+[2022.07.06-09.49.16:972][459]LogSlate: Window '插件' being destroyed
+[2022.07.06-09.49.16:979][459]LogSlate: Window '插件' being destroyed
+[2022.07.06-09.49.16:979][459]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.07.06-09.51.33:542][465]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/New_Contents/enemy1/ThirdPerson/Blueprints/STARTAGAIN/BTS_PlayMontage/HeadHit4UE4_handsup.HeadHit4UE4_handsup
+[2022.07.06-09.51.33:543][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.51.33:551][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.51.33:718][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.51.33:784][465]LogUObjectGlobals: Warning: 寻找对象“Class 无.DestructibleMesh”失败
+[2022.07.06-09.51.33:791][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.51.33:827][465]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-09.51.57:697][108]LogContentBrowser: Deferred new asset file creation: SK_001_AIOWN1
+[2022.07.06-09.51.57:749][108]LogContentBrowser: Creating deferred item: SK_001_AIOWN1
+[2022.07.06-09.51.57:780][109]LogContentBrowser: Renaming the item being created (Deferred Item: SK_001_AIOWN1).
+[2022.07.06-09.52.09:001][780]LogContentBrowser: Attempting asset rename: SK_001_AIOWN1 -> monster_origin
+[2022.07.06-09.52.09:050][780]LogContentBrowser: End creating deferred item SK_001_AIOWN1
+[2022.07.06-09.52.16:762][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/monster_origin" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/monster_origin.uasset" SILENT=true
+[2022.07.06-09.52.16:798][220]LogSavePackage: Moving output files for package: /Game/怪物7/monster_origin
+[2022.07.06-09.52.16:798][220]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_origin784090E6465DB30E3A2528A47FE4850C.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/monster_origin.uasset'
+[2022.07.06-09.52.16:852][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.07.06-09.52.16:878][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.07.06-09.52.16:896][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.06-09.52.16:917][220]AssetCheck: New page: 资产保存：monster_origin
+[2022.07.06-09.52.16:917][220]LogContentValidation: Display: 正在验证SkeletalMesh /Game/怪物7/monster_origin.monster_origin
+[2022.07.06-09.52.42:582][695]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2022.07.06-09.52.42:599][695]LogContentBrowser: Creating deferred item: 新建文件夹
+[2022.07.06-09.52.42:619][696]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2022.07.06-09.52.43:691][759]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2022.07.06-09.52.43:691][759]LogContentBrowser: Attempting asset rename: 新建文件夹 -> i
+[2022.07.06-09.52.43:691][759]LogContentBrowser: End creating deferred item 新建文件夹
+[2022.07.06-09.52.43:726][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.07.06-09.52.43:728][759]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.026
+[2022.07.06-09.52.43:729][759]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint] ([2] browsable assets)...
+[2022.07.06-09.52.43:740][759]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/怪物7/BTS_PlayMontage/NewAnimBlueprint.NewAnimBlueprint]
+[2022.07.06-09.52.43:740][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint]
+[2022.07.06-09.52.43:744][759]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint_Auto2
+[2022.07.06-09.52.43:744][759]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/NewAnimBlueprint_Auto223B7611244CC803F239529AC92A4435E.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint_Auto2.uasset'
+[2022.07.06-09.52.43:745][759]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.07.06-09.52.53:154][303]LogContentBrowser: Attempting asset rename: i -> ik_rig
+[2022.07.06-09.53.16:294][724]LogContentBrowser: Deferred new asset file creation: SK_Gruntling_Guardian1
+[2022.07.06-09.53.16:340][724]LogContentBrowser: Creating deferred item: SK_Gruntling_Guardian1
+[2022.07.06-09.53.16:371][725]LogContentBrowser: Renaming the item being created (Deferred Item: SK_Gruntling_Guardian1).
+[2022.07.06-09.53.23:020][122]LogContentBrowser: Attempting asset rename: SK_Gruntling_Guardian1 -> monster_test
+[2022.07.06-09.53.23:028][122]LogSkeletalMesh: Building Skeletal Mesh SK_Gruntling_Guardian...
+[2022.07.06-09.53.23:031][122]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/怪物7/SK_Gruntling_Guardian.SK_Gruntling_Guardian
+[2022.07.06-09.53.23:034][122]LogContentBrowser: End creating deferred item SK_Gruntling_Guardian1
+[2022.07.06-09.54.13:536][786]LogSlate: Window '选取骨骼网格体' being destroyed
+[2022.07.06-09.54.13:560][786]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2022.07.06-09.54.13:571][786]LogContentBrowser: Creating deferred item: NewIKRig
+[2022.07.06-09.54.13:641][788]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2022.07.06-09.54.20:340][188]LogContentBrowser: Attempting asset rename: NewIKRig -> monster_origin
+[2022.07.06-09.54.20:348][188]LogContentBrowser: End creating deferred item NewIKRig
+[2022.07.06-09.54.29:225][432]LogSlate: Window '选取骨骼网格体' being destroyed
+[2022.07.06-09.54.29:252][432]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2022.07.06-09.54.29:263][432]LogContentBrowser: Creating deferred item: NewIKRig
+[2022.07.06-09.54.29:363][433]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2022.07.06-09.54.35:063][773]LogContentBrowser: Attempting asset rename: NewIKRig -> monster_test
+[2022.07.06-09.54.35:064][773]LogContentBrowser: End creating deferred item NewIKRig
+[2022.07.06-09.55.03:425][977]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/怪物7/ik_rig/monster_origin.monster_origin
+[2022.07.06-09.55.03:428][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.55.03:437][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.55.03:437][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.55.03:691][977]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-09.55.13:938][158]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/怪物7/ik_rig/monster_test.monster_test
+[2022.07.06-09.55.13:938][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-09.55.13:946][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.55.13:946][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-09.55.14:179][158]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-09.56.40:135][261]LogCustomDialog: Dialog displayed:
+[2022.07.06-09.56.42:482][261]LogSlate: Window '添加默认解算器' being destroyed
+[2022.07.06-10.01.35:712][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/ik_rig/monster_origin" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset" SILENT=true
+[2022.07.06-10.01.35:727][ 28]LogSavePackage: Moving output files for package: /Game/怪物7/ik_rig/monster_origin
+[2022.07.06-10.01.35:728][ 28]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_originB72DF6B747E07B4E40F9B2B0C854DE65.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset'
+[2022.07.06-10.01.35:743][ 28]AssetCheck: New page: 资产保存：monster_origin
+[2022.07.06-10.01.35:743][ 28]LogContentValidation: Display: 正在验证IKRigDefinition /Game/怪物7/ik_rig/monster_origin.monster_origin
+[2022.07.06-10.01.59:445][449]LogCustomDialog: Dialog displayed:
+[2022.07.06-10.02.02:228][449]LogSlate: Window '添加默认解算器' being destroyed
+[2022.07.06-10.02.59:624][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.07.06-10.02.59:627][848]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.033
+[2022.07.06-10.02.59:628][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物7/monster_test] ([1] browsable assets)...
+[2022.07.06-10.02.59:639][848]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/怪物7/monster_test.monster_test]
+[2022.07.06-10.02.59:639][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/monster_test]
+[2022.07.06-10.02.59:639][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/monster_test" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/monster_test_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.07.06-10.02.59:646][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/monster_test_Auto3
+[2022.07.06-10.02.59:646][848]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_test_Auto32C5C1ACB49A3FA7CFA60739DB27B0204.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/monster_test_Auto3.uasset'
+[2022.07.06-10.02.59:646][848]LogFileHelpers: Auto-saving content packages took 0.019
+[2022.07.06-10.05.19:724][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/ik_rig/monster_test" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_test.uasset" SILENT=true
+[2022.07.06-10.05.19:731][130]LogSavePackage: Moving output files for package: /Game/怪物7/ik_rig/monster_test
+[2022.07.06-10.05.19:731][130]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_test7ABA38D64C1CF968BEF9078A59CD9700.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_test.uasset'
+[2022.07.06-10.05.19:743][130]AssetCheck: New page: 资产保存：monster_test
+[2022.07.06-10.05.19:743][130]LogContentValidation: Display: 正在验证IKRigDefinition /Game/怪物7/ik_rig/monster_test.monster_test
+[2022.07.06-10.06.23:064][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/ik_rig/monster_origin" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset" SILENT=true
+[2022.07.06-10.06.23:081][765]LogSavePackage: Moving output files for package: /Game/怪物7/ik_rig/monster_origin
+[2022.07.06-10.06.23:081][765]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_origin613BB2D64FAC65AFD46D829F04FDB775.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset'
+[2022.07.06-10.06.23:094][765]AssetCheck: New page: 资产保存：monster_origin
+[2022.07.06-10.06.23:094][765]LogContentValidation: Display: 正在验证IKRigDefinition /Game/怪物7/ik_rig/monster_origin.monster_origin
+[2022.07.06-10.06.24:633][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/ik_rig/monster_origin" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset" SILENT=true
+[2022.07.06-10.06.24:649][856]LogSavePackage: Moving output files for package: /Game/怪物7/ik_rig/monster_origin
+[2022.07.06-10.06.24:649][856]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_origin492EE94944D96676F075CF818E9467E9.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset'
+[2022.07.06-10.06.24:662][856]AssetCheck: New page: 资产保存：monster_origin
+[2022.07.06-10.06.24:662][856]LogContentValidation: Display: 正在验证IKRigDefinition /Game/怪物7/ik_rig/monster_origin.monster_origin
+[2022.07.06-10.10.24:296][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/ik_rig/monster_origin" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset" SILENT=true
+[2022.07.06-10.10.24:312][935]LogSavePackage: Moving output files for package: /Game/怪物7/ik_rig/monster_origin
+[2022.07.06-10.10.24:313][935]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_origin952AE8034B79D24BCA1164B883CDD116.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_origin.uasset'
+[2022.07.06-10.10.24:326][935]AssetCheck: New page: 资产保存：monster_origin
+[2022.07.06-10.10.24:326][935]LogContentValidation: Display: 正在验证IKRigDefinition /Game/怪物7/ik_rig/monster_origin.monster_origin
+[2022.07.06-10.12.29:623][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/ik_rig/monster_test" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_test.uasset" SILENT=true
+[2022.07.06-10.12.29:631][ 72]LogSavePackage: Moving output files for package: /Game/怪物7/ik_rig/monster_test
+[2022.07.06-10.12.29:632][ 72]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_test185E00974D5A3A75763A678DFC4FEA0E.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_test.uasset'
+[2022.07.06-10.12.29:644][ 72]AssetCheck: New page: 资产保存：monster_test
+[2022.07.06-10.12.29:644][ 72]LogContentValidation: Display: 正在验证IKRigDefinition /Game/怪物7/ik_rig/monster_test.monster_test
+[2022.07.06-10.13.05:952][489]LogSlate: Window '选择要复制动画的IK绑定' being destroyed
+[2022.07.06-10.13.05:962][489]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2022.07.06-10.13.05:969][489]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2022.07.06-10.13.05:985][490]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2022.07.06-10.13.07:341][566]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> NewIKRetargeter
+[2022.07.06-10.13.07:341][566]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2022.07.06-10.13.16:024][708]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-10.13.16:024][708]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2022.07.06-10.13.22:274][ 81]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> monster_animate
+[2022.07.06-10.13.22:326][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物7/ik_rig/monster_animate" FILE="../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_animate.uasset" SILENT=true
+[2022.07.06-10.13.22:326][ 81]LogSavePackage: Moving output files for package: /Game/怪物7/ik_rig/monster_animate
+[2022.07.06-10.13.22:326][ 81]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_animate3F6EE9484E887555C1B614A103A79078.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Content/怪物7/ik_rig/monster_animate.uasset'
+[2022.07.06-10.13.22:362][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.07.06-10.13.22:386][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.06-10.13.22:406][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.07.06-10.13.22:412][ 81]AssetCheck: New page: 资产保存：monster_animate
+[2022.07.06-10.13.22:412][ 81]LogContentValidation: Display: 正在验证IKRetargeter /Game/怪物7/ik_rig/monster_animate.monster_animate
+[2022.07.06-10.13.27:537][190]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/怪物7/ik_rig/monster_animate.monster_animate
+[2022.07.06-10.13.27:544][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.06-10.13.27:553][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.13.49:927][694]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh monster_origin
+[2022.07.06-10.13.49:927][694]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'monster_origin'
+[2022.07.06-10.13.49:927][694]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh monster_test
+[2022.07.06-10.13.49:927][694]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'monster_test'
+[2022.07.06-10.13.49:927][694]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, monster_origin and target, monster_test
+[2022.07.06-10.13.49:927][694]LogTemp: Warning: IK Retargeter bone chain, leg_right, end bone, 'foot_l' was not a child of the start bone 'thigh_r'.
+[2022.07.06-10.13.49:927][694]LogTemp: Warning: IK Retargeter source bone chain, 'leg_right', is not compatible with Skeletal Mesh: 'monster_origin'
+[2022.07.06-10.13.56:945][916]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.06-10.15.16:803][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.07.06-10.15.16:805][141]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.022
+[2022.07.06-10.15.16:806][141]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint] ([2] browsable assets)...
+[2022.07.06-10.15.16:834][141]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/怪物7/BTS_PlayMontage/NewAnimBlueprint.NewAnimBlueprint]
+[2022.07.06-10.15.16:834][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint]
+[2022.07.06-10.15.16:838][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint_Auto4
+[2022.07.06-10.15.16:839][141]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/NewAnimBlueprint_Auto4D35878BF458D832BCB0AE9B35E03F056.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/BTS_PlayMontage/NewAnimBlueprint_Auto4.uasset'
+[2022.07.06-10.15.16:844][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/怪物7/ik_rig/monster_animate] ([1] browsable assets)...
+[2022.07.06-10.15.16:844][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物7/ik_rig/monster_animate]
+[2022.07.06-10.15.16:845][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/怪物7/ik_rig/monster_animate_Auto4
+[2022.07.06-10.15.16:845][141]LogSavePackage: Moving '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/monster_animate_Auto48C96E1674BBC41ACE10593990B125172.tmp' to '../../../../../Worktool/Fork_default2/FootSouls/FootSouls_UE5/Saved/Autosaves/Game/怪物7/ik_rig/monster_animate_Auto4.uasset'
+[2022.07.06-10.15.16:846][141]LogFileHelpers: Auto-saving content packages took 0.040
+[2022.07.06-10.15.52:564][548]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh monster_origin
+[2022.07.06-10.15.52:564][548]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'monster_origin'
+[2022.07.06-10.15.52:564][548]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh monster_test
+[2022.07.06-10.15.52:564][548]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'monster_test'
+[2022.07.06-10.15.52:564][548]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, monster_origin and target, monster_test
+[2022.07.06-10.15.52:564][548]LogTemp: Warning: IK Retargeter bone chain, leg_right, end bone, 'foot_l' was not a child of the start bone 'thigh_r'.
+[2022.07.06-10.15.52:564][548]LogTemp: Warning: IK Retargeter source bone chain, 'leg_right', is not compatible with Skeletal Mesh: 'monster_origin'
+[2022.07.06-10.15.53:930][630]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh monster_origin
+[2022.07.06-10.15.53:930][630]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'monster_origin'
+[2022.07.06-10.15.53:930][630]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh monster_test
+[2022.07.06-10.15.53:930][630]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'monster_test'
+[2022.07.06-10.15.53:930][630]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, monster_origin and target, monster_test
+[2022.07.06-10.15.53:930][630]LogTemp: Warning: IK Retargeter bone chain, leg_right, end bone, 'foot_l' was not a child of the start bone 'thigh_r'.
+[2022.07.06-10.15.53:930][630]LogTemp: Warning: IK Retargeter source bone chain, 'leg_right', is not compatible with Skeletal Mesh: 'monster_origin'
+[2022.07.06-10.16.10:407][614]Cmd: TRANSACTION UNDO
+[2022.07.06-10.16.10:407][614]LogEditorTransaction: Undo 旋转重定向姿势骨骼
+[2022.07.06-10.16.10:622][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.10:644][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.10:647][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.10:649][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.10:773][616]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh monster_origin
+[2022.07.06-10.16.10:773][616]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'monster_origin'
+[2022.07.06-10.16.10:773][616]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh monster_test
+[2022.07.06-10.16.10:773][616]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'monster_test'
+[2022.07.06-10.16.10:773][616]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, monster_origin and target, monster_test
+[2022.07.06-10.16.10:773][616]LogTemp: Warning: IK Retargeter bone chain, leg_right, end bone, 'foot_l' was not a child of the start bone 'thigh_r'.
+[2022.07.06-10.16.10:773][616]LogTemp: Warning: IK Retargeter source bone chain, 'leg_right', is not compatible with Skeletal Mesh: 'monster_origin'
+[2022.07.06-10.16.18:591][ 80]Cmd: TRANSACTION UNDO
+[2022.07.06-10.16.18:591][ 80]LogEditorTransaction: Undo 旋转重定向姿势骨骼
+[2022.07.06-10.16.18:813][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.18:828][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.18:831][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.18:833][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.18:947][ 82]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh monster_origin
+[2022.07.06-10.16.18:947][ 82]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'monster_origin'
+[2022.07.06-10.16.18:947][ 82]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh monster_test
+[2022.07.06-10.16.18:947][ 82]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'monster_test'
+[2022.07.06-10.16.18:947][ 82]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, monster_origin and target, monster_test
+[2022.07.06-10.16.18:947][ 82]LogTemp: Warning: IK Retargeter bone chain, leg_right, end bone, 'foot_l' was not a child of the start bone 'thigh_r'.
+[2022.07.06-10.16.18:947][ 82]LogTemp: Warning: IK Retargeter source bone chain, 'leg_right', is not compatible with Skeletal Mesh: 'monster_origin'
+[2022.07.06-10.16.22:116][268]Cmd: TRANSACTION UNDO
+[2022.07.06-10.16.22:116][268]LogEditorTransaction: Undo 旋转重定向姿势骨骼
+[2022.07.06-10.16.22:329][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.22:344][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.22:347][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.22:350][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.22:481][270]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh monster_origin
+[2022.07.06-10.16.22:481][270]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'monster_origin'
+[2022.07.06-10.16.22:481][270]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh monster_test
+[2022.07.06-10.16.22:481][270]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'monster_test'
+[2022.07.06-10.16.22:481][270]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, monster_origin and target, monster_test
+[2022.07.06-10.16.22:481][270]LogTemp: Warning: IK Retargeter bone chain, leg_right, end bone, 'foot_l' was not a child of the start bone 'thigh_r'.
+[2022.07.06-10.16.22:481][270]LogTemp: Warning: IK Retargeter source bone chain, 'leg_right', is not compatible with Skeletal Mesh: 'monster_origin'
+[2022.07.06-10.16.25:644][456]Cmd: TRANSACTION UNDO
+[2022.07.06-10.16.25:644][456]LogEditorTransaction: Undo 编辑目标IKRig资产
+[2022.07.06-10.16.25:853][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.25:869][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.25:870][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.25:873][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-10.16.25:989][458]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.25:989][458]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:013][459]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:013][459]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:043][460]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:043][460]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:067][461]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:067][461]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:091][462]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:091][462]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:116][463]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:116][463]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:139][464]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:139][464]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:156][465]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:156][465]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:172][466]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:172][466]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:189][467]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:189][467]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:206][468]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:206][468]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:223][469]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:223][469]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:239][470]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:239][470]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:256][471]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:256][471]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:272][472]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:273][472]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:289][473]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:289][473]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:306][474]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:306][474]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:322][475]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:322][475]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:339][476]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:339][476]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:356][477]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:356][477]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:372][478]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:372][478]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:389][479]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:389][479]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:406][480]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:406][480]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:422][481]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:422][481]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:439][482]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:439][482]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:456][483]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:456][483]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:473][484]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:473][484]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:489][485]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:489][485]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:506][486]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:506][486]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:523][487]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:523][487]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:539][488]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:539][488]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:556][489]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:556][489]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:573][490]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:573][490]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:589][491]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:589][491]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:606][492]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:606][492]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:623][493]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:623][493]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:639][494]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:639][494]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:656][495]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:656][495]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:673][496]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:673][496]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:689][497]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:689][497]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:706][498]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:706][498]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:723][499]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:723][499]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:739][500]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:739][500]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:756][501]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:756][501]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:773][502]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:773][502]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:789][503]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:789][503]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:806][504]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:806][504]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:823][505]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:823][505]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:839][506]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:839][506]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:856][507]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:856][507]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:873][508]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:873][508]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:889][509]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:889][509]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:906][510]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:906][510]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:922][511]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:922][511]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:940][512]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:940][512]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:956][513]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:956][513]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:972][514]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:972][514]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:989][515]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.26:989][515]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:006][516]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:006][516]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:022][517]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:022][517]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:039][518]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:039][518]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:056][519]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:056][519]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:073][520]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:073][520]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:089][521]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:089][521]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:106][522]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:106][522]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:126][523]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:126][523]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:143][524]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:143][524]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:160][525]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:160][525]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:177][526]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:177][526]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:193][527]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:193][527]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:210][528]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:211][528]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:227][529]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:227][529]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:244][530]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:244][530]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:260][531]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:260][531]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:277][532]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:277][532]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:294][533]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:294][533]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:310][534]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:311][534]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:326][535]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:326][535]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:343][536]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:343][536]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:360][537]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:360][537]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:379][538]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:379][538]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:393][539]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:393][539]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:409][540]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:410][540]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:426][541]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:426][541]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:443][542]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:443][542]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:459][543]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:460][543]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:476][544]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:476][544]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:493][545]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:493][545]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:509][546]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:509][546]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:526][547]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:526][547]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:544][548]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:544][548]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:560][549]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:560][549]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:578][550]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:578][550]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:594][551]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:594][551]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:611][552]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:611][552]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:627][553]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:627][553]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:644][554]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:644][554]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:660][555]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:660][555]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:677][556]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:677][556]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:694][557]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:694][557]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:711][558]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:711][558]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:727][559]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:727][559]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:744][560]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:744][560]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:760][561]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:760][561]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:777][562]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:777][562]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:793][563]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:794][563]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:810][564]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:810][564]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:827][565]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:827][565]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:843][566]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:843][566]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:860][567]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:860][567]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:877][568]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:877][568]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:893][569]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:893][569]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:910][570]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:910][570]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:926][571]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:926][571]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:943][572]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:943][572]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:959][573]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:960][573]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:976][574]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.27:976][574]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.28:001][575]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.16.28:001][575]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:351][ 38]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:351][ 38]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:367][ 39]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:367][ 39]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:384][ 40]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:384][ 40]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:401][ 41]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:401][ 41]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:417][ 42]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:417][ 42]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:437][ 43]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:437][ 43]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:454][ 44]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:454][ 44]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:472][ 45]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:472][ 45]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:487][ 46]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:487][ 46]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:504][ 47]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:504][ 47]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:523][ 48]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:523][ 48]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:538][ 49]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:538][ 49]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:555][ 50]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:555][ 50]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:572][ 51]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:572][ 51]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:588][ 52]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:588][ 52]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:605][ 53]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:605][ 53]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:622][ 54]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:623][ 54]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:638][ 55]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:638][ 55]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:655][ 56]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:655][ 56]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:672][ 57]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:672][ 57]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:688][ 58]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:688][ 58]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:706][ 59]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:706][ 59]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:723][ 60]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:723][ 60]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:738][ 61]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:738][ 61]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:756][ 62]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:756][ 62]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:773][ 63]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:773][ 63]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:788][ 64]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:788][ 64]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:805][ 65]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:805][ 65]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:821][ 66]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:821][ 66]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:838][ 67]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:838][ 67]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:854][ 68]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:854][ 68]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:871][ 69]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:871][ 69]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:888][ 70]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:888][ 70]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:905][ 71]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:905][ 71]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:922][ 72]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:922][ 72]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:938][ 73]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:938][ 73]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:956][ 74]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:956][ 74]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:971][ 75]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:972][ 75]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:988][ 76]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.51:988][ 76]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:005][ 77]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:005][ 77]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:021][ 78]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:021][ 78]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:037][ 79]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:038][ 79]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:054][ 80]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:054][ 80]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:071][ 81]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:071][ 81]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:087][ 82]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:088][ 82]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:104][ 83]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:104][ 83]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:121][ 84]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:121][ 84]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:138][ 85]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:138][ 85]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:154][ 86]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:154][ 86]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:171][ 87]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:171][ 87]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:188][ 88]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:188][ 88]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:205][ 89]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:205][ 89]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:221][ 90]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:221][ 90]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:238][ 91]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:238][ 91]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:254][ 92]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:254][ 92]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:272][ 93]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:272][ 93]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:288][ 94]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:288][ 94]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:305][ 95]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:305][ 95]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:321][ 96]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:321][ 96]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:338][ 97]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:338][ 97]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:355][ 98]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:355][ 98]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:371][ 99]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:371][ 99]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:388][100]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:388][100]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:405][101]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:405][101]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:421][102]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:421][102]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:438][103]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:438][103]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:455][104]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:455][104]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:483][105]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:483][105]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:489][106]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.18.52:489][106]LogTemp: Error: IK Retargeter unable to initialize. Missing target IK Rig asset.
+[2022.07.06-10.19.00:078][544]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.07.06-10.19.00:078][544]LogWindows: Windows GetLastError: 操作成功完成。 (0)

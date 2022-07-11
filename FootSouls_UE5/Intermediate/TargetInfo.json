@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FootSouls",
+			"Path": "D:\\Worktool\\Fork_default2\\FootSouls\\FootSouls_UE5\\Source\\FootSouls.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FootSoulsEditor",
+			"Path": "D:\\Worktool\\Fork_default2\\FootSouls\\FootSouls_UE5\\Source\\FootSoulsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
