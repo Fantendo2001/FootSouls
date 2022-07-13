@@ -133,4 +133,9 @@ FootSouls_UE5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
 FootSouls_UE5/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset
 FootSouls_UE5/Content/Sci_Fi_Character_08/Demo/Animations
 FootSouls_UE5/Content/Sci_Fi_Character_08/Demo/Mesh/SK_Mannequin_PhysicsAsset.uasset
+<<<<<<< HEAD
 FootSouls_UE5/Saved/Logs/FootSouls.log
+=======
+FootSouls_UE5/Saved/*
+FootSouls_UE5/Intermediate/*
+>>>>>>> origin/master
