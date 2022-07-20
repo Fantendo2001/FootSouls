@@ -1,0 +1,18 @@
+一. 基础： WASD移动， 鼠标移动即可控制镜头，点击左键进行射击。
+二. 战斗：
+1） F踢腿：造成少量伤害，且可弹反所有敌人的所有攻击：
+远程：踢腿可以将敌人子弹沿玩家准心瞄准方向弹回，使其对所有敌人造成超高伤害（类似源氏）,被弹反的子弹杀死的敌人会【掉落子弹】。（游戏中有固定炮台发射方向，发射速率，飞行速率皆固定的子弹，玩家可以通过弹反它们的子弹远程来处理大量抱团敌人）
+近战：成功弹反敌人的近战攻击会让敌人进入可处决状态，这时对其射击或踢腿会造成大量处决伤害，且如果该处决让敌人死亡的话，敌人会【掉落子弹】。
+2）Shift：冲刺。向玩家所按方向键方向进行一段突刺（如无按下任何方向键则默认后退），该突刺可在空中进行，有一定冷却时间，CD在HUD中显示。
+三. 资源：
+1）子弹：玩家的射击会造成适度的伤害，玩家有效射杀范围较近，手握的人霰弹枪有一定的扩散。玩家可以通过尽量处决敌人或弹反子弹杀敌来补足子弹资源。
+2）血包：地图的角落或存档点附近会分布一些血包，收集它们可以回复一定血量。
+3）存档点：在地图中的表现为黑色闪光圆环，通过它就会刷新玩家的复活位置，玩家之后死亡会在该存档点复活。
+四. 其他：
+按P重置游戏。按Z自杀（欸嘿）。
+
+1. Basic： WASD to move, use your mouse to control the camera and use left key to shoot. 
+2. Combat：
+    1） F to kick: used for parry all attacks. you can parry both close range hit and flying bullets. 
+    2）Shift to Dash: the cooldown are shown on the right part of the HUD.
+3. Other: P to reset the checkpoint to the start. Z to reset to last checkpoint.
